@@ -1,0 +1,629 @@
+ANALYSIS OF: system5-getprocess.txt
+--------------------------------
+ATTRIBUTES:
+
+Processes: 41
+Retrieval Errors: 11
+
+--------------------------------
+RETRIEVAL ERRORS:
+
+cdp.exe: 404
+crmasyncservice.exe: 404
+crmunzipservice.exe: 404
+fdlauncher.exe: 404
+liteagent.exe: 404
+microsoft.crm.sand....exe: 404
+microsoft.crm.tool....exe: 404
+reportingservicess....exe: 404
+srmhost.exe: 404
+xendpriv.exe: 404
+xenguestagent.exe: 404
+
+--------------------------------
+SERVICE LIST:
+
+cidaemon.exe (4%)
+cisvc.exe 
+cmd.exe (11%)
+conhost.exe 
+csrss.exe (4%)
+dwm.exe (19%)
+explorer.exe (4%)
+fdhost.exe (15%)
+firefox.exe 
+idle.exe (96%)
+inetinfo.exe 
+lsass.exe 
+lsm.exe (3%)
+ltsvc.exe 
+ltsvcmon.exe (44%)
+lttray.exe (40%)
+mmc.exe (3%)
+msdtc.exe (15%)
+msdtssrvr.exe 
+msmdsrv.exe (54%)
+msoidsvc.exe (21%)
+msoidsvcm.exe (23%)
+powershell.exe (6%)
+services.exe (9%)
+smss.exe (5%)
+smsvchost.exe 
+spoolsv.exe 
+sppsvc.exe (2%)
+sqlagent.exe (24%)
+sqlservr.exe (36%)
+sqlwriter.exe (21%)
+svchost.exe 
+system.exe 
+taskhost.exe (4%)
+trustedinstaller.exe (2%)
+vssvc.exe (5%)
+w3wp.exe 
+winlogon.exe (23%)
+wlidsvc.exe (19%)
+wlidsvcm.exe (15%)
+wmiprvse.exe 
+
+--------------------------------
+PROCESS DESCRIPTIONS
+
+
+Process: cidaemon.exe
+Count: 1
+Technical Security Rating: 4%
+
+Description: Cidaemon.exe is an important part of Windows, but often causes problems. The cidaemon.exe file is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 8,192 bytes (97% of all occurrences), 9,728 bytes, 26,624 bytes or 14,848 bytes.	 
+
+It is a Windows core system file. The program is not visible. The cidaemon.exe file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: cisvc.exe
+Count: 1
+
+The genuine cisvc.exe file is a software component of Microsoft Windows Operating System by Microsoft.The indexing service built into Microsoft Windows, this application runs in the background and indexes search content through your machine. As you search your hard driver or external media, this process performs the indexing on the location and content, enabling your search to be performed faster and more efficiently. Founded in 1975, Microsoft's flagship product is the Windows operating system, which is installed on over 90% of workstations worldwide.
+
+CIsvc stands for Content Index service
+
+The genuine cisvc.exe file is a software component of Microsoft Windows Operating System by Microsoft.The indexing service built into Microsoft Windows, this application runs in the background and indexes search content through your machine. As you search your hard driver or external media, this process performs the indexing on the location and content, enabling your search to be performed faster and more efficiently. Founded in 1975, Microsoft's flagship product is the Windows operating system, which is installed on over 90% of workstations worldwide.
+
+----------------
+
+Process: cmd.exe
+Count: 1
+Technical Security Rating: 11%
+
+Description: The original cmd.exe from Microsoft is an important part of Windows, but often causes problems. Cmd.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 302,592 bytes (27% of all occurrences), 202,752 bytes and 38 more variants.	 
+
+It is a trustworthy file from Microsoft. The program is not visible.
+
+Therefore the technical security rating is 11% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: conhost.exe
+Count: 3
+
+The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+
+ConHost stands for Console Application Host
+
+The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+
+----------------
+
+Process: csrss.exe
+Count: 2
+Technical Security Rating: 4%
+
+Description: The original csrss.exe from Microsoft is an important part of Windows, but often causes problems. Csrss.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 6,144 bytes (94% of all occurrences), 7,680 bytes and 7 more variants.	 
+
+The csrss.exe file is a Windows core system file. The program is not visible. Csrss.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: dwm.exe
+Count: 1
+Technical Security Rating: 19%
+
+Description: The original dwm.exe from Microsoft is an important part of Windows, but often causes problems. Dwm.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 92,672 bytes (41% of all occurrences), 81,920 bytes and 15 more variants.	 
+
+Dwm.exe is a Windows core system file. The program has no visible window. The dwm.exe file is a trustworthy file from Microsoft. It can change the behavior of other programs or manipulate other programs.
+
+Therefore the technical security rating is 19% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: explorer.exe
+Count: 1
+Technical Security Rating: 4%
+
+Description: The original explorer.exe from Microsoft is an important part of Windows, but often causes problems. Explorer.exe is located in the C:\Windows folder.
+
+Known file sizes on Windows 10/8/7/XP are 1,033,728 bytes (14% of all occurrences), 2,871,808 bytes and 352 more variants.	 
+
+Explorer.exe is a Windows core system file. The program has a visible window. Explorer.exe is a Microsoft signed file.
+
+Explorer.exe is able to record keyboard and mouse inputs.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: fdhost.exe
+Count: 1
+Technical Security Rating: 15%
+
+Description: Fdhost.exe is not essential for the Windows OS and causes relatively few problems. Fdhost.exe is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 101,912 bytes (40% of all occurrences), 103,264 bytes or 103,624 bytes.	 
+
+The program is not visible. It is certified by a trustworthy company. It is not a Windows core file. You can uninstall this program in the Control Panel.
+
+Therefore the technical security rating is 15% dangerous.
+
+----------------
+
+Process: firefox.exe
+Count: 1
+
+The genuine firefox.exe file is a software component of Mozilla Firefox by Mozilla.Mozilla Firefox is a free and open-source Internet browser application. Firefox.exe runs the Mozilla Firefox application. This is not an essential Windows process and can be disabled if known to create problems.Mozilla Firefox is a free, multi-platform, and open-source Internet browser created and developed by the Mozilla Foundation. Firefox was originally written in 2002 under the name, "Phoenix", and eventually released in 2004 by members of the Mozilla community. It is regarded as the spiritual successor of Netscape Navigator. Mozilla Firefox supports the Windows, Mac OS X, Linux, iOS, and Android platforms.Mozilla is a community that develops free software. The community is best known for the web browser, Firefox. Mozilla was created by the Netscape Communications Corporation in 1998 as a project to assist with the development of the Mozilla Application Suite. The name, Mozilla, is an amalgam of "Mosaic" and "Godzilla". The community is aided by the Mozilla Foundation, a non-profit organization created exclusively for the benefit of Mozilla.
+
+The genuine firefox.exe file is a software component of Mozilla Firefox by Mozilla.Mozilla Firefox is a free and open-source Internet browser application. Firefox.exe runs the Mozilla Firefox application. This is not an essential Windows process and can be disabled if known to create problems.Mozilla Firefox is a free, multi-platform, and open-source Internet browser created and developed by the Mozilla Foundation. Firefox was originally written in 2002 under the name, "Phoenix", and eventually released in 2004 by members of the Mozilla community. It is regarded as the spiritual successor of Netscape Navigator. Mozilla Firefox supports the Windows, Mac OS X, Linux, iOS, and Android platforms.Mozilla is a community that develops free software. The community is best known for the web browser, Firefox. Mozilla was created by the Netscape Communications Corporation in 1998 as a project to assist with the development of the Mozilla Application Suite. The name, Mozilla, is an amalgam of "Mosaic" and "Godzilla". The community is aided by the Mozilla Foundation, a non-profit organization created exclusively for the benefit of Mozilla.
+
+----------------
+
+Process: idle.exe
+Count: 1
+Technical Security Rating: 96%
+
+Most antivirus programs identify idle.exe as malware.
+
+The free file information forum can help you find out how to remove it. If you have additional information about this file, please leave a comment or a suggestion for other users.
+
+Description: Idle.exe is not essential for Windows and will often cause problems. The idle.exe file is located in a subfolder of "C:\Program Files".
+
+The file size on Windows 10/8/7/XP is 331,171 bytes.	 
+
+The program has no file description. The software starts when Windows starts (see Registry key: MACHINE\User Shell Folders).
+
+Idle.exe is not a Windows system file.
+
+Idle.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
+
+Therefore the technical security rating is 96% dangerous.
+
+----------------
+
+Process: inetinfo.exe
+Count: 1
+
+The genuine inetinfo.exe file is a software component of Internet Information Services by Microsoft.A critical part of the IIS Admin Service Helper, this process assists in debugging issues with the web service. This application has not been included since Windows XP Professional. Founded in 1975, Microsoft's flagship product is the Windows operating system, which is installed on over 90% of workstations worldwide.
+
+InetInfo stands for Internet Information
+
+The genuine inetinfo.exe file is a software component of Internet Information Services by Microsoft.A critical part of the IIS Admin Service Helper, this process assists in debugging issues with the web service. This application has not been included since Windows XP Professional. Founded in 1975, Microsoft's flagship product is the Windows operating system, which is installed on over 90% of workstations worldwide.
+
+----------------
+
+Process: lsass.exe
+Count: 1
+
+The genuine lsass.exe file is a software component of Microsoft Windows by Microsoft Corporation.If "lsass.exe" resides in "C:\Windows\System32", it is the Microsoft Windows Operating System's Local Security Authority Subsystem Service. Six critical Windows services involved in the computer's security management are dynamic link library (.dll) files which are called by "lsass.exe". These include "vaultsvc.dll", which controls access to credentials of users and applications; "efssvc.dll", central to storage of encrypted files on NTFS-type disk volumes; and "samsrv.dll", the Security Accounts Manager. If the real "lsass.exe" is forcibly stopped the machine is forced into a restart because the Welcome screen loses its account(s). It also cannot be uninstalled. In other locations, assume "lsass.exe" is disguised malware, which may include extremely dangerous Trojans or worms. A spyware or malware removal program may be needed to remove such files.
+
+LSASS stands for Local Security Authority Subsystem Service
+
+The genuine lsass.exe file is a software component of Microsoft Windows by Microsoft Corporation.If "lsass.exe" resides in "C:\Windows\System32", it is the Microsoft Windows Operating System's Local Security Authority Subsystem Service. Six critical Windows services involved in the computer's security management are dynamic link library (.dll) files which are called by "lsass.exe". These include "vaultsvc.dll", which controls access to credentials of users and applications; "efssvc.dll", central to storage of encrypted files on NTFS-type disk volumes; and "samsrv.dll", the Security Accounts Manager. If the real "lsass.exe" is forcibly stopped the machine is forced into a restart because the Welcome screen loses its account(s). It also cannot be uninstalled. In other locations, assume "lsass.exe" is disguised malware, which may include extremely dangerous Trojans or worms. A spyware or malware removal program may be needed to remove such files.
+
+----------------
+
+Process: lsm.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: The original lsm.exe from Microsoft is an important part of Windows, but often causes problems. Lsm.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 267,776 bytes (41% of all occurrences), 229,888 bytes and 4 more variants.	 
+
+The file is a Windows core system file. The program is not visible. Lsm.exe is a Microsoft signed file.
+
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: ltsvc.exe
+Count: 1
+
+The genuine LTSVC.exe file is a software component of LabTech Remote Monitoring and Maintenance Platform by ConnectWise Capital."LTSVC.exe" is a Windows service that starts automatically when Windows boots. It is the endpoint agent for LabTech Software's RMM (Remote Monitoring and Maintenance) Platform. It installs in "C:\Windows\LTSvc\LTSVC.exe" and is usually about 13MB in size. It may be possible to use the Control Panel's "Uninstall" applet to remove "LTSVC.exe", but first be aware whether the PC belongs to an enterprise IT network and if a managed services contract exists. Removing the endpoint agent may cut off remote troubleshooting and update installation. Note that in 2010 ConnectWise Capital invested in LabTech Software, (founded in 2004 in Tampa, FL, USA), and in November 2016 the product was rebranded as "ConnectWise Automate." No information was provided as to whether this endpoint agent program might be renamed or replaced as part of integration into the ConnectWise product line.
+
+LTSvc stands for LabTech Endpoint Agent Service
+
+The genuine LTSVC.exe file is a software component of LabTech Remote Monitoring and Maintenance Platform by ConnectWise Capital."LTSVC.exe" is a Windows service that starts automatically when Windows boots. It is the endpoint agent for LabTech Software's RMM (Remote Monitoring and Maintenance) Platform. It installs in "C:\Windows\LTSvc\LTSVC.exe" and is usually about 13MB in size. It may be possible to use the Control Panel's "Uninstall" applet to remove "LTSVC.exe", but first be aware whether the PC belongs to an enterprise IT network and if a managed services contract exists. Removing the endpoint agent may cut off remote troubleshooting and update installation. Note that in 2010 ConnectWise Capital invested in LabTech Software, (founded in 2004 in Tampa, FL, USA), and in November 2016 the product was rebranded as "ConnectWise Automate." No information was provided as to whether this endpoint agent program might be renamed or replaced as part of integration into the ConnectWise product line.
+
+----------------
+
+Process: ltsvcmon.exe
+Count: 1
+Technical Security Rating: 44%
+
+Description: LTSvcMon.exe is not essential for the Windows OS and causes relatively few problems. LTSvcMon.exe is located in a subfolder of C:\Windows.
+
+Known file sizes on Windows 10/8/7/XP are 100,352 bytes (50% of all occurrences), 96,768 bytes, 276,920 bytes, 144,176 bytes or 100,864 bytes.	 
+
+The program has no visible window. The file is not a Windows core file. The LTSvcMon.exe file is an unknown file in the Windows folder.
+
+LTSvcMon.exe is able to record keyboard and mouse inputs and monitor applications.
+
+Therefore the technical security rating is 44% dangerous.
+
+----------------
+
+Process: lttray.exe
+Count: 1
+Technical Security Rating: 40%
+
+Description: LTTray.exe is not essential for the Windows OS and causes relatively few problems. The file LTTray.exe is located in a subfolder of C:\Windows.
+
+Known file sizes on Windows 10/8/7/XP are 1,450,936 bytes (33% of all occurrences), 1,283,944 bytes or 1,163,552 bytes.	 
+
+The program has no visible window. The LTTray.exe file is digitally signed. The process starts when Windows starts (see Registry key: MACHINE\User Shell Folders).
+
+The LTTray.exe file is not a Windows system file. LTTray.exe is a Verisign signed file.
+
+LTTray.exe is able to record keyboard and mouse inputs and monitor applications.
+
+Therefore the technical security rating is 40% dangerous.
+
+----------------
+
+Process: mmc.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: The original mmc.exe is an important part of Windows and rarely causes problems. Mmc.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 1,401,344 bytes (28% of all occurrences), 1,414,656 bytes and 31 more variants.	 
+
+The mmc.exe file is a Windows core system file. The program has a visible window. The mmc.exe file is a trustworthy file from Microsoft.
+
+Mmc.exe is able to record keyboard and mouse inputs.
+
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: msdtc.exe
+Count: 1
+Technical Security Rating: 15%
+
+Description: The original msdtc.exe from Microsoft is an important part of Windows, but often causes problems. Msdtc.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 6,144 bytes (74% of all occurrences), 20,480 bytes and 10 more variants.	 
+
+The program is not visible. It is a Microsoft signed file.
+
+Therefore the technical security rating is 15% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: msdtssrvr.exe
+Count: 1
+
+The genuine MsDtsSrvr.exe file is a software component of Microsoft SQL Server Native by Microsoft.A background service for the SQL Server Integration Services, this process starts with Windows automatically if the machine is a SQL Server. This process allows for the conversion and transmission of high volumes of complex data over your SQL Server. It is designed for use with Windows Server 2008 and higher. Founded in 1975, Microsoft's flagship product is the Windows operating system, which is installed on over 90% of workstations worldwide. 
+
+MsDTSSrvr stands for Microsoft DTS Server
+
+The genuine MsDtsSrvr.exe file is a software component of Microsoft SQL Server Native by Microsoft.A background service for the SQL Server Integration Services, this process starts with Windows automatically if the machine is a SQL Server. This process allows for the conversion and transmission of high volumes of complex data over your SQL Server. It is designed for use with Windows Server 2008 and higher. Founded in 1975, Microsoft's flagship product is the Windows operating system, which is installed on over 90% of workstations worldwide. 
+
+----------------
+
+Process: msmdsrv.exe
+Count: 1
+Technical Security Rating: 54%
+
+Description: Msmdsrv.exe is not essential for the Windows OS and causes relatively few problems. Msmdsrv.exe is located in a subfolder of "C:\Program Files" (normally C:\Program Files\Microsoft Analysis Services\Bin\).
+
+Known file sizes on Windows 10/8/7/XP are 1,732,667 bytes (50% of all occurrences), 13,179,660 bytes, 1,966,080 bytes, 1,823,300 bytes or 1,196,544 bytes.	 
+
+The program is not visible. The msmdsrv.exe file is not a Windows core file. The program uses ports to connect to or from a LAN or the Internet.
+
+Msmdsrv.exe is able to monitor applications.
+
+Therefore the technical security rating is 54% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: msoidsvc.exe
+Count: 1
+Technical Security Rating: 21%
+
+Description: Msoidsvc.exe is not essential for the Windows OS and causes relatively few problems. The file msoidsvc.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 2,079,520 bytes (33% of all occurrences), 2,078,112 bytes, 1,578,400 bytes or 1,590,560 bytes.	 
+
+The program has no visible window. The msoidsvc.exe file is digitally signed. It is not a Windows system file. You can uninstall this program in the Control Panel.
+
+Therefore the technical security rating is 21% dangerous.
+
+----------------
+
+Process: msoidsvcm.exe
+Count: 1
+Technical Security Rating: 23%
+
+Description: Msoidsvcm.exe is not essential for the Windows OS and causes relatively few problems. Msoidsvcm.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 206,112 bytes (20% of all occurrences), 191,392 bytes, 205,728 bytes, 190,880 bytes or 191,264 bytes.	 
+
+The program has no visible window. The file has a digital signature. Msoidsvcm.exe is not a Windows system file.
+
+Therefore the technical security rating is 23% dangerous.
+
+----------------
+
+Process: powershell.exe
+Count: 1
+Technical Security Rating: 6%
+
+Description: The original powershell.exe is an important part of Windows and rarely causes problems. Powershell.exe is located in a subfolder of C:\Windows\System32.
+
+Known file sizes on Windows 10/8/7/XP are 452,608 bytes (47% of all occurrences), 431,616 bytes and 4 more variants.	 
+
+It is a Microsoft signed file. The program is not visible.
+
+Therefore the technical security rating is 6% dangerous.
+
+----------------
+
+Process: services.exe
+Count: 1
+Technical Security Rating: 9%
+
+Description: The original services.exe from Microsoft is an important part of Windows, but often causes problems. Services.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 110,592 bytes (21% of all occurrences), 108,544 bytes and 25 more variants.	 
+
+The program has no visible window. Services.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 9% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: smss.exe
+Count: 1
+Technical Security Rating: 5%
+
+Description: The original smss.exe from Microsoft is an important part of Windows, but often causes problems. The file smss.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 50,688 bytes (77% of all occurrences), 69,632 bytes and 10 more variants.	 
+
+The program has no visible window. The smss.exe file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 5% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: smsvchost.exe
+Count: 1
+
+The genuine SMSvcHost.exe file is a software component of Microsoft .NET Framework by Microsoft Corporation."SMSvcHost.exe" is part of the Windows .NET Framework, and a very specific part of it concerning "net.tcp// protocol". Known as the "Net.TCP Port Sharing Service", found in "C:\Windows\Microsoft.NET\Framework\v3.0", it has been available since .NET Framework 3.0, formerly termed WinFX, was introduced in 2006, including the Windows Communication Foundation (WCF). It allows managed-code applications running under .NET's Common Language Runtime (CLR) to share ports used for "net.tcp//" protocol, which in turn gives WCF-specific applications a high-performance way to communicate with each other across networks where interaction with non-WCF/non-CLR software is judged less important. It can only be uninstalled by uninstalling the entire .NET Framework. Microsoft Corporation was founded in April 1975 by Paul Allen and Bill Gates. Headquartered in Redmond, Washington, USA, a suburb of Seattle, in terms of worldwide revenue in 2016 it had become the world's largest software maker.
+
+SMSvcHost stands for Net.TCP Shared-Port Management Service Host
+
+The genuine SMSvcHost.exe file is a software component of Microsoft .NET Framework by Microsoft Corporation."SMSvcHost.exe" is part of the Windows .NET Framework, and a very specific part of it concerning "net.tcp// protocol". Known as the "Net.TCP Port Sharing Service", found in "C:\Windows\Microsoft.NET\Framework\v3.0", it has been available since .NET Framework 3.0, formerly termed WinFX, was introduced in 2006, including the Windows Communication Foundation (WCF). It allows managed-code applications running under .NET's Common Language Runtime (CLR) to share ports used for "net.tcp//" protocol, which in turn gives WCF-specific applications a high-performance way to communicate with each other across networks where interaction with non-WCF/non-CLR software is judged less important. It can only be uninstalled by uninstalling the entire .NET Framework. Microsoft Corporation was founded in April 1975 by Paul Allen and Bill Gates. Headquartered in Redmond, Washington, USA, a suburb of Seattle, in terms of worldwide revenue in 2016 it had become the world's largest software maker.
+
+----------------
+
+Process: spoolsv.exe
+Count: 1
+
+The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
+
+SpoolSv stands for Print Spooler Service
+
+The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
+
+----------------
+
+Process: sppsvc.exe
+Count: 1
+Technical Security Rating: 2%
+
+Description: The original sppsvc.exe from Microsoft is an important part of Windows, but often causes problems. Sppsvc.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 3,179,520 bytes (83% of all occurrences), 3,831,808 bytes and 4 more variants.	 
+
+Sppsvc.exe is a Windows core system file. The program has no visible window. It is a Microsoft signed file.
+
+Therefore the technical security rating is 2% dangerous; however you should also read the user reviews.
+
+----------------
+
+Process: sqlagent.exe
+Count: 1
+Technical Security Rating: 24%
+
+Description: Sqlagent.EXE is not essential for the Windows OS and causes relatively few problems. The file sqlagent.EXE is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 311,872 bytes (50% of all occurrences), 323,584 bytes, 366,936 bytes, 339,968 bytes or 303,170 bytes.	 
+
+The program is not visible. The sqlagent.EXE file is not a Windows core file.
+
+Sqlagent.EXE is able to record keyboard and mouse inputs and monitor applications.
+
+Therefore the technical security rating is 24% dangerous; however you should also read the user reviews.
+
+----------------
+
+Process: sqlservr.exe
+Count: 1
+Technical Security Rating: 36%
+
+Description: Sqlservr.exe is not essential for the Windows OS and causes relatively few problems. The sqlservr.exe file is located in a subfolder of "C:\Program Files" (usually C:\mssql7\Binn\ or C:\Program Files\Microsoft SQL Server\MSSQL\Binn\).
+
+Known file sizes on Windows 10/8/7/XP are 13,179,660 bytes (58% of all occurrences), 7,520,337 bytes and 22 more variants.	 
+
+The program has no visible window. It is not a Windows core file. The sqlservr.exe file is digitally signed.
+
+Sqlservr.exe is able to monitor applications and connect to the Internet.
+
+Therefore the technical security rating is 36% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: sqlwriter.exe
+Count: 1
+Technical Security Rating: 21%
+
+Description: Sqlwriter.exe is not essential for the Windows OS and causes relatively few problems. Sqlwriter.exe is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 89,968 bytes (26% of all occurrences), 87,904 bytes and 20 more variants.	 
+
+The program is not visible. The sqlwriter.exe file is digitally signed. Sqlwriter.exe is not a Windows core file. You can uninstall this program in the Control Panel.
+
+Sqlwriter.exe is able to monitor applications.
+
+Therefore the technical security rating is 21% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: svchost.exe
+Count: 16
+
+The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
+
+SvcHost stands for Service Host
+
+The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
+
+----------------
+
+Process: system.exe
+Count: 1
+
+The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
+
+The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
+
+----------------
+
+Process: taskhost.exe
+Count: 1
+Technical Security Rating: 4%
+
+Description: The original taskhost.exe from Microsoft is an important part of Windows, but often causes problems. Taskhost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 49,152 bytes (98% of all occurrences), 54,272 bytes, 76,800 bytes or 50,688 bytes.	 
+
+Taskhost.exe is a Windows core system file. The program is not visible. Taskhost.exe is a Microsoft signed file.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: trustedinstaller.exe
+Count: 1
+Technical Security Rating: 2%
+
+Description: TrustedInstaller.exe is an important part of Windows, but often causes problems. The TrustedInstaller.exe file is located in a subfolder of C:\Windows.
+
+Known file sizes on Windows 10/8/7/XP are 194,048 bytes (57% of all occurrences), 204,800 bytes and 22 more variants.	 
+
+The TrustedInstaller.exe file is a Windows system file. The program has no visible window. The file is a Microsoft signed file.
+
+Therefore the technical security rating is 2% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: vssvc.exe
+Count: 1
+Technical Security Rating: 5%
+
+Description: VSSVC.exe is an important part of Windows, but often causes problems. VSSVC.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 1,025,536 bytes (33% of all occurrences), 289,792 bytes and 20 more variants.	 
+
+The VSSVC.exe file is a Windows core system file. The program is not visible. The file is a Microsoft signed file.
+
+Therefore the technical security rating is 5% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: w3wp.exe
+Count: 1
+
+The genuine w3wp.exe file is a software component of Internet Information Services by Microsoft Corporation.If "w3wp.exe" is present on a system and is located in "C:\Windows\System32\inetsrv", then it is the "worker process" within Microsoft's Internet Information Services (IIS) web server. In any other location, including "\System32" or any other subfolder of it, "w3wp.exe" is probably disguised malware. IIS is one of the world's three most popular web servers (besides Apache HTTP Server and Nginx) for hosting web sites and handling requests received via HTTP, HTTPS, FTP, and other protocols. One or more "worker processes" can run at the same time under the Windows Process Activation Service (WAS) within IIS, each representing an "application pool." The concept can be compared to the way Windows uses one or more concurrent instances of "svchost.exe" under Task Manager to represent a variety of different Windows services. Microsoft Corporation, founded in 1975 by Paul Allen and Bill Gates, is headquartered in Redmond, WA, USA.
+
+w3wp stands for IIS WorldWide Web Worker Process
+
+The genuine w3wp.exe file is a software component of Internet Information Services by Microsoft Corporation.If "w3wp.exe" is present on a system and is located in "C:\Windows\System32\inetsrv", then it is the "worker process" within Microsoft's Internet Information Services (IIS) web server. In any other location, including "\System32" or any other subfolder of it, "w3wp.exe" is probably disguised malware. IIS is one of the world's three most popular web servers (besides Apache HTTP Server and Nginx) for hosting web sites and handling requests received via HTTP, HTTPS, FTP, and other protocols. One or more "worker processes" can run at the same time under the Windows Process Activation Service (WAS) within IIS, each representing an "application pool." The concept can be compared to the way Windows uses one or more concurrent instances of "svchost.exe" under Task Manager to represent a variety of different Windows services. Microsoft Corporation, founded in 1975 by Paul Allen and Bill Gates, is headquartered in Redmond, WA, USA.
+
+----------------
+
+Process: winlogon.exe
+Count: 1
+Technical Security Rating: 23%
+
+Description: The original winlogon.exe from Microsoft is an important part of Windows, but often causes problems. Winlogon.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 507,904 bytes (20% of all occurrences), 502,272 bytes and 124 more variants.	 
+
+The program is not visible. The file is a trustworthy file from Microsoft.
+
+Winlogon.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
+
+Therefore the technical security rating is 23% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: wlidsvc.exe
+Count: 1
+Technical Security Rating: 19%
+
+Description: Wlidsvc.exe is not essential for Windows and will often cause problems. The file wlidsvc.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 2,292,096 bytes (22% of all occurrences), 2,286,976 bytes and 7 more variants.	 
+
+The program is not visible. It is digitally signed. The wlidsvc.exe file is not a Windows core file. The software can be removed using the Control Panel's Add\Remove programs applet.
+
+Therefore the technical security rating is 19% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: wlidsvcm.exe
+Count: 1
+Technical Security Rating: 15%
+
+Description: Wlidsvcm.exe is not essential for Windows and will often cause problems. Wlidsvcm.exe is located in a subfolder of "C:\Program Files\Common Files" or sometimes in a subfolder of the user's profile folder.
+
+Known file sizes on Windows 10/8/7/XP are 223,104 bytes (18% of all occurrences), 223,488 bytes and 7 more variants.	 
+
+The program is not visible. The file has a digital signature. It is not a Windows system file. You can uninstall this program in the Control Panel.
+
+Therefore the technical security rating is 15% dangerous; however you should also read the user reviews.
+
+----------------
+
+Process: wmiprvse.exe
+Count: 2
+
+The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
+
+WMIPrvSe stands for Windows Management Instrumentation Provider Host Service
+
+The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
+
+----------------

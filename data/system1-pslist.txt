@@ -1,0 +1,1029 @@
+ANALYSIS OF: system1-pslist.txt
+--------------------------------
+ATTRIBUTES:
+
+Processes: 74
+Retrieval Errors: 3
+
+--------------------------------
+RETRIEVAL ERRORS:
+
+memory.exe: 404
+mscalc.exe: 404
+pslist.exe: 404
+
+--------------------------------
+SERVICE LIST:
+
+idle.exe (96%)
+system.exe 
+smss.exe (5%)
+csrss.exe (4%)
+services.exe (9%)
+lsass.exe 
+svchost.exe 
+wudfhost.exe (12%)
+nvvsvc.exe 
+igfxcuiservice.exe 
+spoolsv.exe 
+armsvc.exe 
+etdservice.exe 
+garminservice.exe (18%)
+mdnsresponder.exe 
+gfexperienceservice.exe 
+foxitconnectedpdfservice.exe (47%)
+pnkbstra.exe 
+nvstreamservice.exe 
+nvnetworkservice.exe 
+vmnat.exe (25%)
+vmware-authd.exe (27%)
+vmnetdhcp.exe 
+vmware-usbarbitrator64.exe (13%)
+msmpeng.exe 
+dashost.exe (3%)
+vmware-hostd.exe 
+nissrv.exe (13%)
+nvstreamnetworkservice.exe 
+presentationfontcache.exe 
+officeclicktorun.exe (6%)
+searchindexer.exe (10%)
+googleupdate.exe 
+audiodg.exe (3%)
+winlogon.exe (23%)
+dwm.exe (19%)
+nvxdsync.exe 
+etdctrl.exe 
+sihost.exe (1%)
+taskhostw.exe 
+explorer.exe (4%)
+runtimebroker.exe (6%)
+igfxem.exe 
+etdctrlhelper.exe 
+igfxhk.exe 
+igfxtray.exe 
+shellexperiencehost.exe (3%)
+nvtray.exe 
+nvbackend.exe 
+smartscreen.exe (6%)
+msascuil.exe 
+onedrive.exe 
+expresstray.exe 
+icloudservices.exe 
+apsdaemon.exe 
+iclouddrive.exe (26%)
+dllhost.exe (4%)
+secd.exe (21%)
+pdanetpc.exe 
+vmware-tray.exe (26%)
+jusched.exe (27%)
+spotify.exe 
+nvstreamuseragent.exe 
+conhost.exe 
+spotifycrashservice.exe (55%)
+spotifywebhelper.exe 
+searchui.exe (4%)
+wmiprvse.exe 
+chrome.exe 
+searchprotocolhost.exe (7%)
+searchfilterhost.exe (7%)
+applicationframehost.exe (2%)
+cmd.exe (11%)
+backgroundtaskhost.exe (3%)
+
+--------------------------------
+PROCESS DESCRIPTIONS
+
+
+Process: idle.exe
+Count: 1
+Technical Security Rating: 96%
+
+Most antivirus programs identify idle.exe as malware.
+
+The free file information forum can help you find out how to remove it. If you have additional information about this file, please leave a comment or a suggestion for other users.
+
+Description: Idle.exe is not essential for Windows and will often cause problems. The idle.exe file is located in a subfolder of "C:\Program Files".
+
+The file size on Windows 10/8/7/XP is 331,171 bytes.	 
+
+The program has no file description. The software starts when Windows starts (see Registry key: MACHINE\User Shell Folders).
+
+Idle.exe is not a Windows system file.
+
+Idle.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
+
+Therefore the technical security rating is 96% dangerous.
+
+----------------
+
+Process: system.exe
+Count: 1
+
+The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
+
+The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
+
+----------------
+
+Process: smss.exe
+Count: 1
+Technical Security Rating: 5%
+
+Description: The original smss.exe from Microsoft is an important part of Windows, but often causes problems. The file smss.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 50,688 bytes (77% of all occurrences), 69,632 bytes and 10 more variants.	 
+
+The program has no visible window. The smss.exe file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 5% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: csrss.exe
+Count: 2
+Technical Security Rating: 4%
+
+Description: The original csrss.exe from Microsoft is an important part of Windows, but often causes problems. Csrss.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 6,144 bytes (94% of all occurrences), 7,680 bytes and 7 more variants.	 
+
+The csrss.exe file is a Windows core system file. The program is not visible. Csrss.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: services.exe
+Count: 1
+Technical Security Rating: 9%
+
+Description: The original services.exe from Microsoft is an important part of Windows, but often causes problems. Services.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 110,592 bytes (21% of all occurrences), 108,544 bytes and 25 more variants.	 
+
+The program has no visible window. Services.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 9% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: lsass.exe
+Count: 1
+
+The genuine lsass.exe file is a software component of Microsoft Windows by Microsoft Corporation.If "lsass.exe" resides in "C:\Windows\System32", it is the Microsoft Windows Operating System's Local Security Authority Subsystem Service. Six critical Windows services involved in the computer's security management are dynamic link library (.dll) files which are called by "lsass.exe". These include "vaultsvc.dll", which controls access to credentials of users and applications; "efssvc.dll", central to storage of encrypted files on NTFS-type disk volumes; and "samsrv.dll", the Security Accounts Manager. If the real "lsass.exe" is forcibly stopped the machine is forced into a restart because the Welcome screen loses its account(s). It also cannot be uninstalled. In other locations, assume "lsass.exe" is disguised malware, which may include extremely dangerous Trojans or worms. A spyware or malware removal program may be needed to remove such files.
+
+LSASS stands for Local Security Authority Subsystem Service
+
+The genuine lsass.exe file is a software component of Microsoft Windows by Microsoft Corporation.If "lsass.exe" resides in "C:\Windows\System32", it is the Microsoft Windows Operating System's Local Security Authority Subsystem Service. Six critical Windows services involved in the computer's security management are dynamic link library (.dll) files which are called by "lsass.exe". These include "vaultsvc.dll", which controls access to credentials of users and applications; "efssvc.dll", central to storage of encrypted files on NTFS-type disk volumes; and "samsrv.dll", the Security Accounts Manager. If the real "lsass.exe" is forcibly stopped the machine is forced into a restart because the Welcome screen loses its account(s). It also cannot be uninstalled. In other locations, assume "lsass.exe" is disguised malware, which may include extremely dangerous Trojans or worms. A spyware or malware removal program may be needed to remove such files.
+
+----------------
+
+Process: svchost.exe
+Count: 17
+
+The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
+
+SvcHost stands for Service Host
+
+The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
+
+----------------
+
+Process: wudfhost.exe
+Count: 1
+Technical Security Rating: 12%
+
+Description: The original WUDFHost.exe from Microsoft is an important part of Windows, but often causes problems. WUDFHost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 196,608 bytes (20% of all occurrences), 142,336 bytes and 10 more variants.	 
+
+The program is not visible. WUDFHost.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 12% dangerous; however you should also read the user reviews.
+
+----------------
+
+Process: nvvsvc.exe
+Count: 1
+
+The genuine nvvsvc.exe file is a software component of Nvidia Control Panel by Nvidia.The Nvidia Control Panel is a hardware configuration utility for Nvidia graphics cards. Nvvsvc.exe is a core process utilized by the Nvidia Control Panel that is required to troubleshoot problems with Nvidia graphics cards. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia Control Panel is a utility for the configuration and setup of Nvidia hardware without having to leave the Windows environment or boot into the BIOS. The software communicates with Nvidia's propitiatory drivers in order to utilize and optimize available features to minimize noise, increase stability, and maximize performance. The Nvidia Control Panel supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvVSvc stands for Nvidia Video Driver Helper Service
+
+The genuine nvvsvc.exe file is a software component of Nvidia Control Panel by Nvidia.The Nvidia Control Panel is a hardware configuration utility for Nvidia graphics cards. Nvvsvc.exe is a core process utilized by the Nvidia Control Panel that is required to troubleshoot problems with Nvidia graphics cards. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia Control Panel is a utility for the configuration and setup of Nvidia hardware without having to leave the Windows environment or boot into the BIOS. The software communicates with Nvidia's propitiatory drivers in order to utilize and optimize available features to minimize noise, increase stability, and maximize performance. The Nvidia Control Panel supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: igfxcuiservice.exe
+Count: 1
+
+The genuine igfxCUIService.exe file is a software component of Intel® Common User Interface by Intel Corporation."IgfxCUIService.exe" is in the Intel® Common User Interface which installs alongside drivers for Intel® graphics cards and onboard graphic processor units (GPUs). Under Windows 8, (and later), this is the name for the module which presents a menu to select "Graphics Properties," which starts another module presenting a window to adjust color calibration and other graphics settings. (Before Windows 8, "igfxsrvc.exe" was used.) It should not be uninstalled except to install updated Intel® graphics drivers. Get driver updates from the OEM's website because they may be customized; Intel's are generic. Replacing a display's default color calibration profile with one generated by a third-party app may cause reversion to old values when waking from hibernation. Using Task Manager before hibernation to end "igfxCUIService.exe" prevents this, only until the next restart. (Consult Microsoft Support.) Intel Corporation, founded in 1968 in Santa Clara, CA, USA, is the world's largest semiconductor manufacturer.
+
+igfxCUIService stands for Intel Graphics Common User Interface Service
+
+The genuine igfxCUIService.exe file is a software component of Intel® Common User Interface by Intel Corporation."IgfxCUIService.exe" is in the Intel® Common User Interface which installs alongside drivers for Intel® graphics cards and onboard graphic processor units (GPUs). Under Windows 8, (and later), this is the name for the module which presents a menu to select "Graphics Properties," which starts another module presenting a window to adjust color calibration and other graphics settings. (Before Windows 8, "igfxsrvc.exe" was used.) It should not be uninstalled except to install updated Intel® graphics drivers. Get driver updates from the OEM's website because they may be customized; Intel's are generic. Replacing a display's default color calibration profile with one generated by a third-party app may cause reversion to old values when waking from hibernation. Using Task Manager before hibernation to end "igfxCUIService.exe" prevents this, only until the next restart. (Consult Microsoft Support.) Intel Corporation, founded in 1968 in Santa Clara, CA, USA, is the world's largest semiconductor manufacturer.
+
+----------------
+
+Process: spoolsv.exe
+Count: 1
+
+The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
+
+SpoolSv stands for Print Spooler Service
+
+The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
+
+----------------
+
+Process: armsvc.exe
+Count: 1
+
+The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Systems.Armsvc.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process automatically updates Acrobat on a periodic basis. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+
+ArmSvc stands for Adobe Acrobat Automatic Update Service
+
+The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Systems.Armsvc.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process automatically updates Acrobat on a periodic basis. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+
+----------------
+
+Process: etdservice.exe
+Count: 1
+
+The genuine ETDService.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDService.exe runs a core process associated with the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
+
+ETDService stands for Elan Trackpad Device Service
+
+The genuine ETDService.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDService.exe runs a core process associated with the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
+
+----------------
+
+Process: garminservice.exe
+Count: 1
+Technical Security Rating: 18%
+
+Description: GarminService.exe is not essential for the Windows OS and causes relatively few problems. The file GarminService.exe is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 1,085,968 bytes (33% of all occurrences), 795,664 bytes, 708,104 bytes, 809,488 bytes or 1,039,376 bytes.	 
+
+The program has no visible window. It is a Verisign signed file. The GarminService.exe file is certified by a trustworthy company. The GarminService.exe file is not a Windows core file. You can uninstall this program in the Control Panel.
+
+Therefore the technical security rating is 18% dangerous.
+
+----------------
+
+Process: mdnsresponder.exe
+Count: 1
+
+The genuine mDNSResponder.exe file is a software component of Bonjour by Apple.MDNSResponder.exe is an executable file that is associated with Bonjour, a zeroconf (zero-configuration networking) implementation designed by Apple. This is not an essential Windows process and can be disabled if known to create problems. Bonjour automatically detects devices located on a network and the services they offer using the multicast Domain Name System. The software is shipped with Mac OS X and iOS but is also available for Microsoft Windows. The software was designed with the main intention of setting up networks a hassle-free task. Bonjour is currently used by many software programs t quickly connect to the network. Apple Inc. is an American company that develops consumer electronics, computer software, as well as online services. The company is known for its smartphones, tablet computers, personal computers, media players and smartwatches. Apple develops the OS X and iOS operating systems, the iTunes media player, the Safari web browser, as well as several dozen productivity suites. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, to develop and sell personal computers. The company is currently based in Cupertino, California, USA. 
+
+MDNSResponder stands for Bonjour Multicast Domain Name System Responder
+
+The genuine mDNSResponder.exe file is a software component of Bonjour by Apple.MDNSResponder.exe is an executable file that is associated with Bonjour, a zeroconf (zero-configuration networking) implementation designed by Apple. This is not an essential Windows process and can be disabled if known to create problems. Bonjour automatically detects devices located on a network and the services they offer using the multicast Domain Name System. The software is shipped with Mac OS X and iOS but is also available for Microsoft Windows. The software was designed with the main intention of setting up networks a hassle-free task. Bonjour is currently used by many software programs t quickly connect to the network. Apple Inc. is an American company that develops consumer electronics, computer software, as well as online services. The company is known for its smartphones, tablet computers, personal computers, media players and smartwatches. Apple develops the OS X and iOS operating systems, the iTunes media player, the Safari web browser, as well as several dozen productivity suites. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, to develop and sell personal computers. The company is currently based in Cupertino, California, USA. 
+
+----------------
+
+Process: gfexperienceservice.exe
+Count: 1
+
+The genuine GfExperienceService.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. GfExperienceService.exe runs the Nvidia GeForce Experience application. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+GFExperienceService stands for Nvidia GeForce Experience Service
+
+The genuine GfExperienceService.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. GfExperienceService.exe runs the Nvidia GeForce Experience application. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: foxitconnectedpdfservice.exe
+Count: 1
+Technical Security Rating: 47%
+
+Description: FoxitConnectedPDFService.exe is not essential for the Windows OS and causes relatively few problems. FoxitConnectedPDFService.exe is located in a subfolder of "C:\Program Files" or sometimes in a subfolder of C:\ or in a subfolder of the user's profile folder.
+
+Known file sizes on Windows 10/8/7/XP are 1,659,592 bytes (51% of all occurrences), 1,648,840 bytes, 1,659,456 bytes or 1,647,808 bytes.	 
+
+The program is not visible. It is digitally signed. The file is not a Windows system file. The process listens for or sends data on open ports to a LAN or the Internet.
+
+FoxitConnectedPDFService.exe is able to record keyboard and mouse inputs.
+
+Therefore the technical security rating is 47% dangerous.
+
+----------------
+
+Process: pnkbstra.exe
+Count: 1
+
+The genuine PnkBstrA.exe file is a software component of PunkBuster by Even Balance.PunkBuster is a cheat-detection utility for video games to prevent cheating in online multiplayer games. PnkBstrA.exe is a core component of the PunkBuster Client. This is not an essential Windows process and can be disabled if known to create problems. PunkBuster offers real-time kernel-based protection systems that feature dynamic and permanent scanning of player systems using heuristic or generic detection. The program is designed to minimize in-game cheating and hacks for better gameplay during multiplayer matches. PunkBuster is issued background updates and scripts. The program also features administrative tools for taking screen shots, managing ban lists, and live video streaming. Even Balance Inc. is an American company that is the sole developer of the PunkBuster anti-cheat tool. The company licenses the application to video game developers and publishers who wish to integrate the program into their software. Even Balance was founded in 2010 and is currently headquartered in Austin, Texas, USA. 
+
+PnkBstrA stands for PunkBuster Service Component A
+
+The genuine PnkBstrA.exe file is a software component of PunkBuster by Even Balance.PunkBuster is a cheat-detection utility for video games to prevent cheating in online multiplayer games. PnkBstrA.exe is a core component of the PunkBuster Client. This is not an essential Windows process and can be disabled if known to create problems. PunkBuster offers real-time kernel-based protection systems that feature dynamic and permanent scanning of player systems using heuristic or generic detection. The program is designed to minimize in-game cheating and hacks for better gameplay during multiplayer matches. PunkBuster is issued background updates and scripts. The program also features administrative tools for taking screen shots, managing ban lists, and live video streaming. Even Balance Inc. is an American company that is the sole developer of the PunkBuster anti-cheat tool. The company licenses the application to video game developers and publishers who wish to integrate the program into their software. Even Balance was founded in 2010 and is currently headquartered in Austin, Texas, USA. 
+
+----------------
+
+Process: nvstreamservice.exe
+Count: 1
+
+The genuine NvStreamService.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvStreamService.exe runs the core process for the Nvidia GameStream application, a part of the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvStreamService stands for Nvidia GameStream Service
+
+The genuine NvStreamService.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvStreamService.exe runs the core process for the Nvidia GameStream application, a part of the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: nvnetworkservice.exe
+Count: 1
+
+The genuine NvNetworkService.exe file is a software component of NVIDIA Network Service by NVIDIA.The network service for the GeForce Experience software, this application runs in the background and tracks updates for the GeForce graphics card. Any software or driver updates are read by the service and installed automatically. This application is known to take up large amounts of system resources and is not necessary to use GeForce hardware. Based in Santa Clara, California, Nvidia is a producer of graphics hardware and software. 
+
+NVNetworkService stands for NVIDIA Network Service
+
+The genuine NvNetworkService.exe file is a software component of NVIDIA Network Service by NVIDIA.The network service for the GeForce Experience software, this application runs in the background and tracks updates for the GeForce graphics card. Any software or driver updates are read by the service and installed automatically. This application is known to take up large amounts of system resources and is not necessary to use GeForce hardware. Based in Santa Clara, California, Nvidia is a producer of graphics hardware and software. 
+
+----------------
+
+Process: vmnat.exe
+Count: 1
+Technical Security Rating: 25%
+
+Description: Vmnat.exe is not essential for the Windows OS and causes relatively few problems. Vmnat.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 135,168 bytes (21% of all occurrences), 150,064 bytes and 14 more variants.	 
+
+The program is not visible. Vmnat.exe is not a Windows system file. The application can be uninstalled in the Control Panel. The file is a Verisign signed file. It is certified by a trustworthy company.
+
+Therefore the technical security rating is 25% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: vmware-authd.exe
+Count: 1
+Technical Security Rating: 27%
+
+Description: Vmware-authd.exe is not essential for the Windows OS and causes relatively few problems. The file vmware-authd.exe is located in a subfolder of "C:\Program Files" or sometimes in a subfolder of C:\ or in the user's "Documents" folder.
+
+Known file sizes on Windows 10/8/7/XP are 113,200 bytes (23% of all occurrences), 79,872 bytes and 18 more variants.	 
+
+The program has no visible window. The file is not a Windows system file. The software can be removed using the Control Panel's Add\Remove programs applet. The vmware-authd.exe file is certified by a trustworthy company. It is a Verisign signed file. The program uses ports to connect to or from a LAN or the Internet.
+
+Vmware-authd.exe is able to monitor applications.
+
+Therefore the technical security rating is 27% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: vmnetdhcp.exe
+Count: 1
+
+The genuine vmnetdhcp.exe file is a software component of VMware Workstation by VMware.This system process runs on virtual machines running through VMware and provides dynamic host control protocol settings to the VM. DHCP is the service that assigns an internet protocol address to your machine. VMware provides the ability to run virtual workstations within another operating system. vmnetdhcp provides the means of DHCP communication between the client VM and the host operating system. VMware was founded in 1998 and subsequently acquired in 2004 by EMC Corporation.
+
+VMnetDHCP stands for VMware network Dynamic Host Control Protocol Service
+
+The genuine vmnetdhcp.exe file is a software component of VMware Workstation by VMware.This system process runs on virtual machines running through VMware and provides dynamic host control protocol settings to the VM. DHCP is the service that assigns an internet protocol address to your machine. VMware provides the ability to run virtual workstations within another operating system. vmnetdhcp provides the means of DHCP communication between the client VM and the host operating system. VMware was founded in 1998 and subsequently acquired in 2004 by EMC Corporation.
+
+----------------
+
+Process: vmware-usbarbitrator64.exe
+Count: 1
+Technical Security Rating: 13%
+
+Description: Vmware-usbarbitrator64.exe is not essential for the Windows OS and causes relatively few problems. Vmware-usbarbitrator64.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 916,040 bytes (22% of all occurrences), 906,944 bytes and 9 more variants.	 
+
+The program is not visible. The file is a Verisign signed file. The file is certified by a trustworthy company. It is not a Windows core file. The program can be uninstalled in the Control Panel.
+
+Vmware-usbarbitrator64.exe is able to monitor applications and connect to the Internet.
+
+Therefore the technical security rating is 13% dangerous.
+
+----------------
+
+Process: msmpeng.exe
+Count: 1
+
+The genuine MsMpEng.exe file is a software component of Windows Defender by Microsoft Corporation."MsMpEng.exe" is Microsoft's core antimalware executable. It performs the actual background real-time protective scanning for malware, viruses, and worms of files that it detects as having been created or updated recently. It has been used since Windows XP both in consumer-oriented products, (Windows Defender, Microsoft Security Essentials), and by Microsoft enterprise products designed for managed software or server environments such as Forefront Client Security (FCS), meant only for Windows Server, not endpoint Windows. High CPU usage is a well-known side-effect of "msmpeng.exe", often a major reason that users install third-party antimalware products. When such products are installed, Windows Defender is deactivated. It installs in a subdirectory of "C:\Program Files" whose name depends on the OS version: "\Microsoft Security Client" for XP/Vista/Win7, or "\Windows Defender" for Win8/8.1/10. It is uninstalled if the overall security product name is removed via the Control Panel.
+
+MsMPEng stands for Microsoft Malware Protection Engine
+
+The genuine MsMpEng.exe file is a software component of Windows Defender by Microsoft Corporation."MsMpEng.exe" is Microsoft's core antimalware executable. It performs the actual background real-time protective scanning for malware, viruses, and worms of files that it detects as having been created or updated recently. It has been used since Windows XP both in consumer-oriented products, (Windows Defender, Microsoft Security Essentials), and by Microsoft enterprise products designed for managed software or server environments such as Forefront Client Security (FCS), meant only for Windows Server, not endpoint Windows. High CPU usage is a well-known side-effect of "msmpeng.exe", often a major reason that users install third-party antimalware products. When such products are installed, Windows Defender is deactivated. It installs in a subdirectory of "C:\Program Files" whose name depends on the OS version: "\Microsoft Security Client" for XP/Vista/Win7, or "\Windows Defender" for Win8/8.1/10. It is uninstalled if the overall security product name is removed via the Control Panel.
+
+----------------
+
+Process: dashost.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: The original dasHost.exe from Microsoft is an important part of Windows, but often causes problems. DasHost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 69,632 bytes (20% of all occurrences), 67,072 bytes and 6 more variants.	 
+
+The file is a Windows system file. It is a trustworthy file from Microsoft. The program is not visible.
+
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: vmware-hostd.exe
+Count: 1
+
+The genuine vmware-hostd.exe file is a software component of VMware Workstation by VMware.vmware-hostd is a common library for VMWare products. VMware software provides an entirely virtualised set of hardware to the guest operating system. VMware software virtualises the hardware for a video adapter, a network adapter, and hard disk adapters. The host provides pass-through drivers for guest USB, serial, and parallel devices. In this way, VMware virtual machines become highly portable between computers as every host looks nearly identical to the guest.
+
+vmware-hostd stands for VirtualMachineWare-Hosted Workstation
+
+The genuine vmware-hostd.exe file is a software component of VMware Workstation by VMware.vmware-hostd is a common library for VMWare products. VMware software provides an entirely virtualised set of hardware to the guest operating system. VMware software virtualises the hardware for a video adapter, a network adapter, and hard disk adapters. The host provides pass-through drivers for guest USB, serial, and parallel devices. In this way, VMware virtual machines become highly portable between computers as every host looks nearly identical to the guest.
+
+----------------
+
+Process: nissrv.exe
+Count: 1
+Technical Security Rating: 13%
+
+Description: NisSrv.exe is not essential for the Windows OS and causes relatively few problems. NisSrv.exe is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 288,272 bytes (8% of all occurrences), 379,360 bytes and 41 more variants.	 
+
+The program is not visible. The file is certified by a trustworthy company. The file is not a Windows core file. The application can be removed using the Control Panel's Add\Remove programs applet.
+
+Therefore the technical security rating is 13% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: nvstreamnetworkservice.exe
+Count: 1
+
+The genuine NvStreamNetworkService.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvStreamNetworkService.exe runs a process associated with the Nvidia GameStream application, a part of the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvStreamNetworkService stands for Nvidia GameStream Network Service
+
+The genuine NvStreamNetworkService.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvStreamNetworkService.exe runs a process associated with the Nvidia GameStream application, a part of the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: presentationfontcache.exe
+Count: 1
+
+The genuine PresentationFontCache.exe file is a software component of Microsoft .NET Framework by Microsoft Corporation."PresentationFontCache.exe" is by Microsoft Corporation, a Windows service from the Windows Presentation Foundation (WPF), the graphical subsystem of version 3.0 of the Windows .NET Framework. The WPF has been an essential component of Windows since Vista. Although the subfolder "C:\Windows\Microsoft.NET\Framework" may have multiple version subfolders, only "…\Framework\v3.0\WPF" contains this program, accompanied by "PresentationFontCache.exe.config". This program has no visible window. The first WPF program to start after rebooting, (which can involve substantial overhead), once running it improves performance of applications using WPF by caching the system fonts. Frequent complaints about its elevated CPU usage can sometimes be addressed by stopping the service, deleting the file "Windows\ServiceProfiles\LocalService\AppData\Local\FontCache4.0.0.0.dat" and restarting it. However, it can cause high storage consumption by creating 8MB "per-user" cache files; high user volume on a server may create more than 50GB of these. Founded in 1975, today Microsoft is the world's largest software producer by revenue.
+
+PresentationFontCache stands for Windows Presentation Foundation Font Cache Service
+
+The genuine PresentationFontCache.exe file is a software component of Microsoft .NET Framework by Microsoft Corporation."PresentationFontCache.exe" is by Microsoft Corporation, a Windows service from the Windows Presentation Foundation (WPF), the graphical subsystem of version 3.0 of the Windows .NET Framework. The WPF has been an essential component of Windows since Vista. Although the subfolder "C:\Windows\Microsoft.NET\Framework" may have multiple version subfolders, only "…\Framework\v3.0\WPF" contains this program, accompanied by "PresentationFontCache.exe.config". This program has no visible window. The first WPF program to start after rebooting, (which can involve substantial overhead), once running it improves performance of applications using WPF by caching the system fonts. Frequent complaints about its elevated CPU usage can sometimes be addressed by stopping the service, deleting the file "Windows\ServiceProfiles\LocalService\AppData\Local\FontCache4.0.0.0.dat" and restarting it. However, it can cause high storage consumption by creating 8MB "per-user" cache files; high user volume on a server may create more than 50GB of these. Founded in 1975, today Microsoft is the world's largest software producer by revenue.
+
+----------------
+
+Process: officeclicktorun.exe
+Count: 1
+Technical Security Rating: 6%
+
+Description: OfficeClickToRun.exe is not essential for Windows and will often cause problems. OfficeClickToRun.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 3,971,264 bytes (4% of all occurrences), 2,776,664 bytes and 71 more variants.	 
+
+The program is not visible. The OfficeClickToRun.exe file is not a Windows system file. The file is certified by a trustworthy company.
+
+OfficeClickToRun.exe is able to monitor applications.
+
+Therefore the technical security rating is 6% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: searchindexer.exe
+Count: 1
+Technical Security Rating: 10%
+
+Description: The original SearchIndexer.exe from Microsoft is an important part of Windows, but often causes problems. SearchIndexer.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 439,808 bytes (38% of all occurrences), 427,520 bytes and 23 more variants.	 
+
+The program is not visible. The SearchIndexer.exe file is a Microsoft signed file.
+
+Therefore the technical security rating is 10% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: googleupdate.exe
+Count: 1
+
+The genuine GoogleUpdate.exe file is a software component of Google Updater by Google.GoogleUpdate.exe is an executable file that runs the Google Updater, a package management system that downloads, installs, removes and automatically updates Google applications. This is not a critical Windows component and should be removed if known to cause problems. Google Updater was distributed as a part of Google Pack, a suite of software programs created by Google. It was distributed as a single downloadable archive since 2006 and was available till September 2011. Google Updater is no longer a supported application and uninstallation is recommended. Google was founded in 1998 by Larry Page and Sergey Brin, Ph.D. students at Stanford. Google has since grown into one of the biggest companies in the world, offering hundreds of services, including webmail (Gmail), cloud storage (Google Drive), office software (Google Docs) and social networking services (Google+). Alexa, which provides web traffic data, lists Google as the world's most visited website. Its popularity has led to huge media coverage, including a major critique of the company over copyright, censorship, and privacy issues. Google is headquartered in Googleplex, Mountain View, California, USA.
+
+The genuine GoogleUpdate.exe file is a software component of Google Updater by Google.GoogleUpdate.exe is an executable file that runs the Google Updater, a package management system that downloads, installs, removes and automatically updates Google applications. This is not a critical Windows component and should be removed if known to cause problems. Google Updater was distributed as a part of Google Pack, a suite of software programs created by Google. It was distributed as a single downloadable archive since 2006 and was available till September 2011. Google Updater is no longer a supported application and uninstallation is recommended. Google was founded in 1998 by Larry Page and Sergey Brin, Ph.D. students at Stanford. Google has since grown into one of the biggest companies in the world, offering hundreds of services, including webmail (Gmail), cloud storage (Google Drive), office software (Google Docs) and social networking services (Google+). Alexa, which provides web traffic data, lists Google as the world's most visited website. Its popularity has led to huge media coverage, including a major critique of the company over copyright, censorship, and privacy issues. Google is headquartered in Googleplex, Mountain View, California, USA.
+
+----------------
+
+Process: audiodg.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: The original audiodg.exe from Microsoft is an important part of Windows, but often causes problems. The audiodg.exe file is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 100,864 bytes (44% of all occurrences), 88,064 bytes and 12 more variants.	 
+
+The audiodg.exe file is a Windows system file. The program is not visible. The file is a Microsoft signed file.
+
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: winlogon.exe
+Count: 1
+Technical Security Rating: 23%
+
+Description: The original winlogon.exe from Microsoft is an important part of Windows, but often causes problems. Winlogon.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 507,904 bytes (20% of all occurrences), 502,272 bytes and 124 more variants.	 
+
+The program is not visible. The file is a trustworthy file from Microsoft.
+
+Winlogon.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
+
+Therefore the technical security rating is 23% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: dwm.exe
+Count: 1
+Technical Security Rating: 19%
+
+Description: The original dwm.exe from Microsoft is an important part of Windows, but often causes problems. Dwm.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 92,672 bytes (41% of all occurrences), 81,920 bytes and 15 more variants.	 
+
+Dwm.exe is a Windows core system file. The program has no visible window. The dwm.exe file is a trustworthy file from Microsoft. It can change the behavior of other programs or manipulate other programs.
+
+Therefore the technical security rating is 19% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: nvxdsync.exe
+Count: 1
+
+The genuine nvxdsync.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. Nvxdsync.exe runs a core process that belongs to the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvxDSync stands for Nvidia GeForce Experience Driver Synchronization Component
+
+The genuine nvxdsync.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. Nvxdsync.exe runs a core process that belongs to the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: etdctrl.exe
+Count: 1
+
+The genuine ETDCtrl.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDCtrl.exe runs the control center, a configuration screen that provides options to modify settings for the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
+
+ETDCtrl stands for Elan Trackpad Device Control Center
+
+The genuine ETDCtrl.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDCtrl.exe runs the control center, a configuration screen that provides options to modify settings for the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
+
+----------------
+
+Process: sihost.exe
+Count: 1
+Technical Security Rating: 1%
+
+Description: The original sihost.exe from Microsoft is an important part of Windows, but often causes problems. Sihost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 66,048 bytes (57% of all occurrences), 57,856 bytes, 58,368 bytes or 43,520 bytes.	 
+
+The file is a Windows core system file. Sihost.exe is a trustworthy file from Microsoft. The program has no visible window.
+
+Therefore the technical security rating is 1% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: taskhostw.exe
+Count: 1
+
+The genuine taskhostw.exe file is a software component of Windows service start manager by Microsoft.Taskhostw.exe is part of the Windows 10 operating system, and starts DLL-based Windows services when the computer boots up. Thus, Windows 10 uses the taskhostw.exe file as a host for processes that execute as part of a DLL file rather than through an EXE. Like an executable DLL, a DLL contains executable code and resources that can be shared. This host process for Windows tasks indicates the Windows version, since the file name under Windows 7 is taskhost.exe and under Windows 8 taskhostex.exe. To see all the DLL's that have been loaded by taskhostw.exe, open a cmd window and enter the command tasklist /M /FI "IMAGENAME eq taskhostw.exe".
+
+TaskHostW stands for Task's Host for Windows
+
+The genuine taskhostw.exe file is a software component of Windows service start manager by Microsoft.Taskhostw.exe is part of the Windows 10 operating system, and starts DLL-based Windows services when the computer boots up. Thus, Windows 10 uses the taskhostw.exe file as a host for processes that execute as part of a DLL file rather than through an EXE. Like an executable DLL, a DLL contains executable code and resources that can be shared. This host process for Windows tasks indicates the Windows version, since the file name under Windows 7 is taskhost.exe and under Windows 8 taskhostex.exe. To see all the DLL's that have been loaded by taskhostw.exe, open a cmd window and enter the command tasklist /M /FI "IMAGENAME eq taskhostw.exe".
+
+----------------
+
+Process: explorer.exe
+Count: 1
+Technical Security Rating: 4%
+
+Description: The original explorer.exe from Microsoft is an important part of Windows, but often causes problems. Explorer.exe is located in the C:\Windows folder.
+
+Known file sizes on Windows 10/8/7/XP are 1,033,728 bytes (14% of all occurrences), 2,871,808 bytes and 352 more variants.	 
+
+Explorer.exe is a Windows core system file. The program has a visible window. Explorer.exe is a Microsoft signed file.
+
+Explorer.exe is able to record keyboard and mouse inputs.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: runtimebroker.exe
+Count: 1
+Technical Security Rating: 6%
+
+Description: The original RuntimeBroker.exe from Microsoft is an important part of Windows, but often causes problems. The file RuntimeBroker.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 73,328 bytes (31% of all occurrences), 66,600 bytes and 5 more variants.	 
+
+It is a Windows system file. The RuntimeBroker.exe file is a trustworthy file from Microsoft. The program has no visible window. The file has a digital signature.
+
+Therefore the technical security rating is 6% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: igfxem.exe
+Count: 1
+
+The genuine igfxEM.exe file is a software component of Intel® Common User Interface by Intel Corporation.This module appears to be the main executable of Intel's "Common User Interface (CUI)," a standard Intel installation package provided when installing Microsoft Windows and alongside drivers for Intel graphics cards. It is middleware between Intel graphics hardware and the user, making settings and characteristics visible and adjustable through the GUI. Intel makes multiple graphics cards and chipsets and although the CUI concept provides a user interface to many kinds of Intel graphics drivers new versions are released periodically causing changes in how settings are accessed. The Intel® Graphics Media Accelerator (GMA) whose drivers are often associated with the CUI was superseded by HD and Iris GPUs around 2008 but the CUI still exists. Intel Corporation, headquartered in Santa Clara, CA, USA, has a long history of technical innovation and is the world's largest and highest-valued semiconductor manufacturer.
+
+igfxEM stands for Intel Graphics Executable Main Module
+
+The genuine igfxEM.exe file is a software component of Intel® Common User Interface by Intel Corporation.This module appears to be the main executable of Intel's "Common User Interface (CUI)," a standard Intel installation package provided when installing Microsoft Windows and alongside drivers for Intel graphics cards. It is middleware between Intel graphics hardware and the user, making settings and characteristics visible and adjustable through the GUI. Intel makes multiple graphics cards and chipsets and although the CUI concept provides a user interface to many kinds of Intel graphics drivers new versions are released periodically causing changes in how settings are accessed. The Intel® Graphics Media Accelerator (GMA) whose drivers are often associated with the CUI was superseded by HD and Iris GPUs around 2008 but the CUI still exists. Intel Corporation, headquartered in Santa Clara, CA, USA, has a long history of technical innovation and is the world's largest and highest-valued semiconductor manufacturer.
+
+----------------
+
+Process: etdctrlhelper.exe
+Count: 1
+
+The genuine ETDCtrlHelper.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDCtrlHelper.exe runs the helper for the control center, a configuration screen that provides options to modify settings for the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
+
+ETDCtrlHelper stands for Elan Trackpad Device Control Center Helper
+
+The genuine ETDCtrlHelper.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDCtrlHelper.exe runs the helper for the control center, a configuration screen that provides options to modify settings for the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
+
+----------------
+
+Process: igfxhk.exe
+Count: 1
+
+The genuine igfxHK.exe file is a software component of Intel® Common User Interface by Intel Corporation.For Windows 8 and later Microsoft OS versions, "igfxhk.exe" controls video-related hot keys as part of Intel's Common User Interface that accompanies its drivers for graphics cards and onboard GPUs. ("Hkcmd.exe" does that in Windows 7 and earlier.) The file should reside in "C:\Windows\System32" and may be disguised malware if found anywhere else. It should not be disabled or uninstalled; hotkeys can be disabled from a pane in the Intel Graphics Control window. The GMA Driver is shipped with and installed alongside Intel and nVidia graphics cards, and also provided to manufacturers of computers using Intel® graphics chipsets on the motherboard. If looking online for updated Intel drivers, consult the computer manufacturer's site first because the OEM version may be customized. If Windows reports after startup that it cannot find "igfxhk.exe," reinstall the Intel drivers. Intel Corporation, the world's largest and highest-valued semiconductor manufacturer, advertises a multifaceted commitment to diversity and education.
+
+igfxHK stands for Intel Graphics Hot Key Control
+
+The genuine igfxHK.exe file is a software component of Intel® Common User Interface by Intel Corporation.For Windows 8 and later Microsoft OS versions, "igfxhk.exe" controls video-related hot keys as part of Intel's Common User Interface that accompanies its drivers for graphics cards and onboard GPUs. ("Hkcmd.exe" does that in Windows 7 and earlier.) The file should reside in "C:\Windows\System32" and may be disguised malware if found anywhere else. It should not be disabled or uninstalled; hotkeys can be disabled from a pane in the Intel Graphics Control window. The GMA Driver is shipped with and installed alongside Intel and nVidia graphics cards, and also provided to manufacturers of computers using Intel® graphics chipsets on the motherboard. If looking online for updated Intel drivers, consult the computer manufacturer's site first because the OEM version may be customized. If Windows reports after startup that it cannot find "igfxhk.exe," reinstall the Intel drivers. Intel Corporation, the world's largest and highest-valued semiconductor manufacturer, advertises a multifaceted commitment to diversity and education.
+
+----------------
+
+Process: igfxtray.exe
+Count: 1
+
+The genuine igfxTray.exe file is a software component of Intel® Common User Interface by Intel Corporation.This Intel process is installed as part of their Graphics Media Accelerator Driver which is shipped along with Windows drivers for Intel and nVidia graphics cards. It displays an icon in the Microsoft Windows system notification tray which provides convenient user access to the Intel Graphics configuration and diagnostic application. To uninstall the product, including "igfxtray.exe," select "Intel Graphics Media Accelerator" in the Control Panel's "Uninstall a Program" applet. Intel is a multinational corporation headquartered in Santa Clara, CA, USA, and is the world's largest and highest-valued semiconductor manufacturer. In addition to innovative expansion of smart and connected technology, Intel uses its global influence to promote ecological and social awareness, such as using "conflict-free" minerals in its physical chipsets.
+
+igfxTray stands for Intel Graphics System Tray Helper Icon
+
+The genuine igfxTray.exe file is a software component of Intel® Common User Interface by Intel Corporation.This Intel process is installed as part of their Graphics Media Accelerator Driver which is shipped along with Windows drivers for Intel and nVidia graphics cards. It displays an icon in the Microsoft Windows system notification tray which provides convenient user access to the Intel Graphics configuration and diagnostic application. To uninstall the product, including "igfxtray.exe," select "Intel Graphics Media Accelerator" in the Control Panel's "Uninstall a Program" applet. Intel is a multinational corporation headquartered in Santa Clara, CA, USA, and is the world's largest and highest-valued semiconductor manufacturer. In addition to innovative expansion of smart and connected technology, Intel uses its global influence to promote ecological and social awareness, such as using "conflict-free" minerals in its physical chipsets.
+
+----------------
+
+Process: shellexperiencehost.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: ShellExperienceHost.exe is an important part of Windows, but often causes problems. The file ShellExperienceHost.exe is located in a subfolder of C:\Windows.
+
+Known file sizes on Windows 10/8/7/XP are 2,095,968 bytes (34% of all occurrences), 1,653,600 bytes and 11 more variants.	 
+
+It is a Windows system file. The file is a Microsoft signed file. The program is not visible. The file has a digital signature.
+
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: nvtray.exe
+Count: 1
+
+The genuine nvtray.exe file is a software component of Nvidia Control Panel by Nvidia.The Nvidia Control Panel is a hardware configuration utility for Nvidia graphics cards. Nvtray.exe runs the system tray process for the Nvidia Control Panel. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia Control Panel is a utility for the configuration and setup of Nvidia hardware without having to leave the Windows environment or boot into the BIOS. The software communicates with Nvidia's propitiatory drivers in order to utilize and optimize available features to minimize noise, increase stability, and maximize performance. The Nvidia Control Panel supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvTray stands for Nvidia Control Panel Tray App
+
+The genuine nvtray.exe file is a software component of Nvidia Control Panel by Nvidia.The Nvidia Control Panel is a hardware configuration utility for Nvidia graphics cards. Nvtray.exe runs the system tray process for the Nvidia Control Panel. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia Control Panel is a utility for the configuration and setup of Nvidia hardware without having to leave the Windows environment or boot into the BIOS. The software communicates with Nvidia's propitiatory drivers in order to utilize and optimize available features to minimize noise, increase stability, and maximize performance. The Nvidia Control Panel supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: nvbackend.exe
+Count: 1
+
+The genuine NvBackend.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvBackend.exe runs the software framework that encapsulates the Nvidia GeForce Experience programs. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvBackend stands for Nvidia GeForce Experience Backend
+
+The genuine NvBackend.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvBackend.exe runs the software framework that encapsulates the Nvidia GeForce Experience programs. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: smartscreen.exe
+Count: 1
+Technical Security Rating: 6%
+
+Description: The original smartscreen.exe is an important part of Windows and rarely causes problems. Smartscreen.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 1,700,864 bytes (83% of all occurrences) or 1,558,528 bytes.	 
+
+It is a Windows system file. The program is not visible. The file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 6% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: msascuil.exe
+Count: 1
+
+The genuine MSASCuiL.exe file is a software component of Microsoft Windows 10 by Microsoft Corporation.Microsoft created the file "MSASCuiL.exe" in 2016 for the "Redstone 1" anniversary update of Windows 10. Its function is (or was) to display the icon for the Windows Defender antivirus program in the Windows taskbar, also known as the Windows Defender Center. (As early as May 2017, users alleged it has been merged into SecurityHealthService.) Residing in "C:\Program Files\Windows Defender", it runs at startup and can be disabled through Task Manager. Care must be taken not to confuse it with "msascui.exe", which is Windows Defender itself. On any older Windows OS, (8.1/8/7/Vista/XP), or in another location, it is disguised malware. Microsoft Corporation, located since 1979 in Redmond, Washington, USA, was founded April 4, 1975, in Albequerque, New Mexico, USA, by Paul Allen and Bill Gates. It is today the world's largest software maker by revenue despite repeated litigation and regulatory action in multiple countries.
+
+MsASCUIL stands for Microsoft Antivirus Security Center User Interface Logo
+
+The genuine MSASCuiL.exe file is a software component of Microsoft Windows 10 by Microsoft Corporation.Microsoft created the file "MSASCuiL.exe" in 2016 for the "Redstone 1" anniversary update of Windows 10. Its function is (or was) to display the icon for the Windows Defender antivirus program in the Windows taskbar, also known as the Windows Defender Center. (As early as May 2017, users alleged it has been merged into SecurityHealthService.) Residing in "C:\Program Files\Windows Defender", it runs at startup and can be disabled through Task Manager. Care must be taken not to confuse it with "msascui.exe", which is Windows Defender itself. On any older Windows OS, (8.1/8/7/Vista/XP), or in another location, it is disguised malware. Microsoft Corporation, located since 1979 in Redmond, Washington, USA, was founded April 4, 1975, in Albequerque, New Mexico, USA, by Paul Allen and Bill Gates. It is today the world's largest software maker by revenue despite repeated litigation and regulatory action in multiple countries.
+
+----------------
+
+Process: onedrive.exe
+Count: 1
+
+The genuine OneDrive.exe file is a software component of Windows Online Cloud storage service by Microsoft.Microsoft's OneDrive cloud storage facility provides for the synchonization, backup and sharing of data files, photos and music. You always have at least a few gigabytes at your disposal. In contrast to hard drives and thumb drives, OneDrive allows you access to your data from any Internet-capable device. Additionally, encryption of your data with software such as Boxcryptor is advisable, since Microsoft, as a U.S. firm, is required to allow access to the data to U.S. authorities under the Patriot Act. This also applies to competitors such as Dropbox, Apple's iCloud, and Google Drive. At the beginning of 2014, having lost its litigation with the British Sky Pay-TV service, Microsoft renamed its cloud storage service from SkyDrive to "OneDrive." Starting with Windows 10, OneDrive is more tightly bound to the operating system. You can still disable startup and synchronization with Microsoft Cloud. It is enough simply to click the OneDrive cloud icon in the taskbar's system tray. Select "Settings"; then disable the "Start OneDrive automatically when I sign in to Windows" option. Tip: if you would prefer to store your data under a different Microsoft account, you should also select "Unlink OneDrive" and then enter your new access data. 
+
+OneDrive stands for One Drive for all
+
+The genuine OneDrive.exe file is a software component of Windows Online Cloud storage service by Microsoft.Microsoft's OneDrive cloud storage facility provides for the synchonization, backup and sharing of data files, photos and music. You always have at least a few gigabytes at your disposal. In contrast to hard drives and thumb drives, OneDrive allows you access to your data from any Internet-capable device. Additionally, encryption of your data with software such as Boxcryptor is advisable, since Microsoft, as a U.S. firm, is required to allow access to the data to U.S. authorities under the Patriot Act. This also applies to competitors such as Dropbox, Apple's iCloud, and Google Drive. At the beginning of 2014, having lost its litigation with the British Sky Pay-TV service, Microsoft renamed its cloud storage service from SkyDrive to "OneDrive." Starting with Windows 10, OneDrive is more tightly bound to the operating system. You can still disable startup and synchronization with Microsoft Cloud. It is enough simply to click the OneDrive cloud icon in the taskbar's system tray. Select "Settings"; then disable the "Start OneDrive automatically when I sign in to Windows" option. Tip: if you would prefer to store your data under a different Microsoft account, you should also select "Unlink OneDrive" and then enter your new access data. 
+
+----------------
+
+Process: expresstray.exe
+Count: 1
+
+The genuine ExpressTray.exe file is a software component of Garmin Express Tray by Garmin.Garmin Express is software to manage Garmin GPS devices. ExpressTray.exe runs the system tray process for the Garmin Express application. This is not an essential Windows process and can be disabled if known to create problems. Garmin Express is an application designed for the Microsoft Windows and Mac OS X platforms. The program allows users to update device maps, upload activities to Garmin Connect (a software for tracking activities that stores, analyses and shares data online), register products purchased from Garmin, and more. Garmin Ltd. is an American multinational company that develops GPS for use in use in sports, aviation, automotive, marine, and other outdoor activities. The company was founded by Gary Burrell and Min Kao in 1989 as ProNav in Lenexa, Kansas, United States. The company generates over $2.82 billion in annual revenue. Garmin is currently headquartered in Olathe, Kansas, USA.
+
+The genuine ExpressTray.exe file is a software component of Garmin Express Tray by Garmin.Garmin Express is software to manage Garmin GPS devices. ExpressTray.exe runs the system tray process for the Garmin Express application. This is not an essential Windows process and can be disabled if known to create problems. Garmin Express is an application designed for the Microsoft Windows and Mac OS X platforms. The program allows users to update device maps, upload activities to Garmin Connect (a software for tracking activities that stores, analyses and shares data online), register products purchased from Garmin, and more. Garmin Ltd. is an American multinational company that develops GPS for use in use in sports, aviation, automotive, marine, and other outdoor activities. The company was founded by Gary Burrell and Min Kao in 1989 as ProNav in Lenexa, Kansas, United States. The company generates over $2.82 billion in annual revenue. Garmin is currently headquartered in Olathe, Kansas, USA.
+
+----------------
+
+Process: icloudservices.exe
+Count: 1
+
+The genuine iCloudServices.exe file is a software component of iCloud by Apple.iCloudServices.exe is an executable file that belongs to Apple iCloud for Windows, a program that enables users to upload data from their Windows-based PCs to Apple servers. This is not an essential Windows process and can be disabled if known to create problems. iCloud is a cloud storage service that offers users online storage space to for data such as documents, photos, and music. The data is kept on remote servers and can be accessed by any authorized iOS, Macintosh or Windows device, with the ability to share and send data to other users, and to old data if the Apple device is lost or stolen. Apple Inc. is an American company that develops consumer electronics, computer software, as well as online services. The company is known for its smartphones, tablet computers, personal computers, media players and smartwatches. Apple develops the OS X and iOS operating systems, the iTunes media player, the Safari web browser, as well as several dozen productivity suites. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, to develop and sell personal computers. The company is currently based in Cupertino, California, USA. 
+
+The genuine iCloudServices.exe file is a software component of iCloud by Apple.iCloudServices.exe is an executable file that belongs to Apple iCloud for Windows, a program that enables users to upload data from their Windows-based PCs to Apple servers. This is not an essential Windows process and can be disabled if known to create problems. iCloud is a cloud storage service that offers users online storage space to for data such as documents, photos, and music. The data is kept on remote servers and can be accessed by any authorized iOS, Macintosh or Windows device, with the ability to share and send data to other users, and to old data if the Apple device is lost or stolen. Apple Inc. is an American company that develops consumer electronics, computer software, as well as online services. The company is known for its smartphones, tablet computers, personal computers, media players and smartwatches. Apple develops the OS X and iOS operating systems, the iTunes media player, the Safari web browser, as well as several dozen productivity suites. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, to develop and sell personal computers. The company is currently based in Cupertino, California, USA. 
+
+----------------
+
+Process: apsdaemon.exe
+Count: 1
+
+The genuine APSDaemon.exe file is a software component of Apple Application Support by Apple.APSDaemon.exe is an executable file that belongs to Apple Application Support, a program that is required to synchronize devices through iTunes. This is not an essential Windows process and can be disabled if known to create problems. Apple Application Support a program developed for iPods and iPhones to enable users using iTunes 9 on their devices to arrange icons and synchronize devices without requiring the actual device. Apple Inc. is an American company that develops consumer electronics, computer software, as well as online services. The company is known for its smartphones, tablet computers, personal computers, media players and smartwatches. Apple develops the OS X and iOS operating systems, the iTunes media player, the Safari web browser, as well as several dozen productivity suites. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, to develop and sell personal computers. The company is currently based in Cupertino, California, USA. 
+
+APSDaemon stands for Apple Push Service Daemon
+
+The genuine APSDaemon.exe file is a software component of Apple Application Support by Apple.APSDaemon.exe is an executable file that belongs to Apple Application Support, a program that is required to synchronize devices through iTunes. This is not an essential Windows process and can be disabled if known to create problems. Apple Application Support a program developed for iPods and iPhones to enable users using iTunes 9 on their devices to arrange icons and synchronize devices without requiring the actual device. Apple Inc. is an American company that develops consumer electronics, computer software, as well as online services. The company is known for its smartphones, tablet computers, personal computers, media players and smartwatches. Apple develops the OS X and iOS operating systems, the iTunes media player, the Safari web browser, as well as several dozen productivity suites. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976, to develop and sell personal computers. The company is currently based in Cupertino, California, USA. 
+
+----------------
+
+Process: iclouddrive.exe
+Count: 1
+Technical Security Rating: 26%
+
+Description: ICloudDrive.exe is not essential for the Windows OS and causes relatively few problems. ICloudDrive.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 110,392 bytes (66% of all occurrences), 103,696 bytes or 43,816 bytes.	 
+
+The iCloudDrive.exe file is a Verisign signed file. It is digitally signed. ICloudDrive.exe is not a Windows core file. The process is loaded during the Windows boot process (see Registry key: Run).
+
+The program has no visible window. The software can be uninstalled in the Control Panel. The software listens for or sends data on open ports to a LAN or the Internet.
+
+ICloudDrive.exe is able to monitor applications.
+
+Therefore the technical security rating is 26% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: dllhost.exe
+Count: 1
+Technical Security Rating: 4%
+
+Description: The original dllhost.exe from Microsoft is an important part of Windows, but often causes problems. The file dllhost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 7,168 bytes (47% of all occurrences), 5,120 bytes and 29 more variants.	 
+
+The dllhost.exe file is a Windows system file. The program has no visible window. It is a Microsoft signed file.
+
+Therefore the technical security rating is 4% dangerous; however you should also read the user reviews.
+
+----------------
+
+Process: secd.exe
+Count: 1
+Technical Security Rating: 21%
+
+Description: Secd.exe is not essential for the Windows OS and causes relatively few problems. Secd.exe is located in a subfolder of "C:\Program Files\Common Files".
+
+Known file sizes on Windows 10/8/7/XP are 1,332,024 bytes (42% of all occurrences), 1,268,536 bytes, 1,269,048 bytes, 1,168,696 bytes or 1,143,608 bytes.	 
+
+The program is not visible. It is a Verisign signed file. It is digitally signed. It is not a Windows core file. The application can be uninstalled in the Control Panel.
+
+Therefore the technical security rating is 21% dangerous.
+
+----------------
+
+Process: pdanetpc.exe
+Count: 1
+
+The genuine PdaNetPC.exe file is a software component of PdaNet for Android by June Fabrics Technology.This executable is the PdaNet interface for PCs. It allows the user to tether their Android phone to a PC using a USB cable, thus allowing a shared internet connection. PdaNet also supports wireless transmitting mode, which is a cableless tether.
+
+PdaNetPC stands for PdaNet Personal Computer
+
+The genuine PdaNetPC.exe file is a software component of PdaNet for Android by June Fabrics Technology.This executable is the PdaNet interface for PCs. It allows the user to tether their Android phone to a PC using a USB cable, thus allowing a shared internet connection. PdaNet also supports wireless transmitting mode, which is a cableless tether.
+
+----------------
+
+Process: vmware-tray.exe
+Count: 1
+Technical Security Rating: 26%
+
+Description: Vmware-tray.exe is not essential for the Windows OS and causes relatively few problems. The file vmware-tray.exe is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 129,584 bytes (16% of all occurrences), 68,400 bytes and 14 more variants.	 
+
+Vmware-tray.exe is a Verisign signed file. The file is digitally signed. The file is not a Windows system file. The program is loaded during the Windows boot process (see Registry key: MACHINE\Run).
+
+The program has no visible window.
+
+Therefore the technical security rating is 26% dangerous.
+
+----------------
+
+Process: jusched.exe
+Count: 1
+Technical Security Rating: 27%
+
+Description: Jusched.exe is not essential for Windows and will often cause problems. The file jusched.exe is located in a subfolder of "C:\Program Files" or sometimes in the C:\Windows\System32 folder or in a subfolder of C:\Windows\System32 (typically C:\Program Files\Java\j2re1.x.x_0x\bin\).
+
+Known file sizes on Windows 10/8/7/XP are 144,784 bytes (24% of all occurrences), 32,881 bytes and 30 more variants.	 
+
+The file is not a Windows system file. The program is not visible. The application is loaded during the Windows boot process (see Registry key: MACHINE\Run, Run).
+
+The software can be uninstalled in the Control Panel. Jusched.exe is a Verisign signed file. The file has a digital signature.
+
+Therefore the technical security rating is 27% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: spotify.exe
+Count: 3
+
+The genuine Spotify.exe file is a software component of Spotify by Spotify.Spotify is an interactive music and media player. It provides and plays a large variety of top music, videos and audio books, some of which is available without subscription. When the Spotify player is running, it streams media live through your internet connection. It is also available on mobile devices.
+
+The genuine Spotify.exe file is a software component of Spotify by Spotify.Spotify is an interactive music and media player. It provides and plays a large variety of top music, videos and audio books, some of which is available without subscription. When the Spotify player is running, it streams media live through your internet connection. It is also available on mobile devices.
+
+----------------
+
+Process: nvstreamuseragent.exe
+Count: 1
+
+The genuine NvStreamUserAgent.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvStreamUserAgent.exe runs the client program for the Nvidia GameStream application, a part of the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+NvStreamUserAgent stands for Nvidia GameStream User Agent
+
+The genuine NvStreamUserAgent.exe file is a software component of Nvidia GeForce Experience by Nvidia.The Nvidia GeForce Experience is a suite of performance optimization, recording, streaming and maintenance programs developed specifically for Nvidia graphics cards. NvStreamUserAgent.exe runs the client program for the Nvidia GameStream application, a part of the Nvidia GeForce Experience. This is not an essential Windows process and can be disabled if known to create problems, however, doing so may cause problems while running software that relies on Nvidia applications.The Nvidia GeForce Experience features performance optimization tools that automatically configure games to run at optimal settings using hardware benchmarking data stored on Nvidia's cloud data centres. GeForce Experience incorporates Nvidia ShadowPlay technology that enables users to record and broadcast gameplay footage; Nvidia Ansel which enables in-game 360-degree photography; Nvidia GameStream for local intranet broadcasting; automatic driver updates for installed hardware, and more. The Nvidia GeForce Experience supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
+
+----------------
+
+Process: conhost.exe
+Count: 2
+
+The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+
+ConHost stands for Console Application Host
+
+The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+
+----------------
+
+Process: spotifycrashservice.exe
+Count: 1
+Technical Security Rating: 55%
+
+Description: SpotifyCrashService.exe is not essential for the Windows OS and causes relatively few problems. SpotifyCrashService.exe is located in a subfolder of the user's profile folder.
+
+Known file sizes on Windows 10/8/7/XP are 840,248 bytes (13% of all occurrences), 524,912 bytes and 21 more variants.	 
+
+The program is not visible. The SpotifyCrashService.exe file is not a Windows core file. The file is certified by a trustworthy company.
+
+Therefore the technical security rating is 55% dangerous.
+
+----------------
+
+Process: spotifywebhelper.exe
+Count: 1
+
+The genuine SpotifyWebHelper.exe file is a software component of Spotify by Spotify AB.Spotify is, next to Amazon's Audible, one of the largest audiobook provider in the world. Spotify was launched in October 2008 in Sweden.
+
+The genuine SpotifyWebHelper.exe file is a software component of Spotify by Spotify AB.Spotify is, next to Amazon's Audible, one of the largest audiobook provider in the world. Spotify was launched in October 2008 in Sweden.
+
+----------------
+
+Process: searchui.exe
+Count: 1
+Technical Security Rating: 4%
+
+Description: SearchUI.exe is an important part of Windows, but often causes problems. The file SearchUI.exe is located in a subfolder of C:\Windows.
+
+Known file sizes on Windows 10/8/7/XP are 9,371,488 bytes (31% of all occurrences), 10,652,512 bytes and 24 more variants.	 
+
+SearchUI.exe is a Windows system file. It is a Microsoft signed file. The program has no visible window. It is certified by a trustworthy company.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: wmiprvse.exe
+Count: 2
+
+The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
+
+WMIPrvSe stands for Windows Management Instrumentation Provider Host Service
+
+The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
+
+----------------
+
+Process: chrome.exe
+Count: 6
+
+The genuine chrome.exe file is a software component of Google Chrome by Google.Chrome.exe is an executable file that runs the Google Chrome Web Browser, a free software program that displays web pages. This is not a critical Windows component and should be removed if known to cause problems. Google Chrome was initially released in 2008. Since that time, it has gone on to acquire roughly 51% of worldwide usage share for web browsers. A majority of the browser's code is open source. Google Chrome features a stable, secure, fast and simple interface. It stands out from other web browser owing to its minimalist UI. Google was founded in 1998 by Larry Page and Sergey Brin, Ph.D. students at Stanford. Google has since grown into one of the biggest companies in the world, offering hundreds of services, including webmail (Gmail), cloud storage (Google Drive), office software (Google Docs) and social networking services (Google+). Alexa, which provides web traffic data, lists Google as the world's most visited website. Its popularity has led to huge media coverage, including a major critique of the company over copyright, censorship, and privacy issues. Google is headquartered in Googleplex, Mountain View, California, USA.
+
+Chrome stands for Google Chrome
+
+The genuine chrome.exe file is a software component of Google Chrome by Google.Chrome.exe is an executable file that runs the Google Chrome Web Browser, a free software program that displays web pages. This is not a critical Windows component and should be removed if known to cause problems. Google Chrome was initially released in 2008. Since that time, it has gone on to acquire roughly 51% of worldwide usage share for web browsers. A majority of the browser's code is open source. Google Chrome features a stable, secure, fast and simple interface. It stands out from other web browser owing to its minimalist UI. Google was founded in 1998 by Larry Page and Sergey Brin, Ph.D. students at Stanford. Google has since grown into one of the biggest companies in the world, offering hundreds of services, including webmail (Gmail), cloud storage (Google Drive), office software (Google Docs) and social networking services (Google+). Alexa, which provides web traffic data, lists Google as the world's most visited website. Its popularity has led to huge media coverage, including a major critique of the company over copyright, censorship, and privacy issues. Google is headquartered in Googleplex, Mountain View, California, USA.
+
+----------------
+
+Process: searchprotocolhost.exe
+Count: 1
+Technical Security Rating: 7%
+
+Description: SearchProtocolHost.exe is an important part of Windows, but often causes problems. The file SearchProtocolHost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 164,352 bytes (40% of all occurrences), 184,832 bytes and 18 more variants.	 
+
+The program is not visible. It is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 7% dangerous; however you should also read the user reviews.
+
+----------------
+
+Process: searchfilterhost.exe
+Count: 1
+Technical Security Rating: 7%
+
+Description: SearchFilterHost.exe is an important part of Windows, but often causes problems. SearchFilterHost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 86,528 bytes (37% of all occurrences), 87,552 bytes and 14 more variants.	 
+
+The program has no visible window. The SearchFilterHost.exe file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 7% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: applicationframehost.exe
+Count: 1
+Technical Security Rating: 2%
+
+Description: ApplicationFrameHost.exe is an important part of Windows, but often causes problems. ApplicationFrameHost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 36,136 bytes (78% of all occurrences), 42,320 bytes or 52,728 bytes.	 
+
+It is a Windows system file. The file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 2% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: cmd.exe
+Count: 1
+Technical Security Rating: 11%
+
+Description: The original cmd.exe from Microsoft is an important part of Windows, but often causes problems. Cmd.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 302,592 bytes (27% of all occurrences), 202,752 bytes and 38 more variants.	 
+
+It is a trustworthy file from Microsoft. The program is not visible.
+
+Therefore the technical security rating is 11% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: backgroundtaskhost.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: The original backgroundTaskHost.exe is an important part of Windows and rarely causes problems. BackgroundTaskHost.exe is located in the C:\Windows\System32 folder or sometimes in a subfolder of C:\Windows.
+
+Known file sizes on Windows 10/8/7/XP are 17,760 bytes (84% of all occurrences), 17,824 bytes, 8,704 bytes, 17,816 bytes or 13,584 bytes.	 
+
+The backgroundTaskHost.exe file is a Windows system file. It is a Microsoft signed file. The program is not visible. The file has a digital signature.
+
+backgroundTaskHost.exe appears to be a compressed file.
+
+Therefore the technical security rating is 3% dangerous; however you should also read the user reviews.
+
+----------------
