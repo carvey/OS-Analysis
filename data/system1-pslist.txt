@@ -121,8 +121,6 @@ Count: 1
 
 The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
 
-The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
-
 ----------------
 
 Process: smss.exe
@@ -174,8 +172,6 @@ The genuine lsass.exe file is a software component of Microsoft Windows by Micro
 
 LSASS stands for Local Security Authority Subsystem Service
 
-The genuine lsass.exe file is a software component of Microsoft Windows by Microsoft Corporation.If "lsass.exe" resides in "C:\Windows\System32", it is the Microsoft Windows Operating System's Local Security Authority Subsystem Service. Six critical Windows services involved in the computer's security management are dynamic link library (.dll) files which are called by "lsass.exe". These include "vaultsvc.dll", which controls access to credentials of users and applications; "efssvc.dll", central to storage of encrypted files on NTFS-type disk volumes; and "samsrv.dll", the Security Accounts Manager. If the real "lsass.exe" is forcibly stopped the machine is forced into a restart because the Welcome screen loses its account(s). It also cannot be uninstalled. In other locations, assume "lsass.exe" is disguised malware, which may include extremely dangerous Trojans or worms. A spyware or malware removal program may be needed to remove such files.
-
 ----------------
 
 Process: svchost.exe
@@ -184,8 +180,6 @@ Count: 17
 The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
 
 SvcHost stands for Service Host
-
-The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
 
 ----------------
 
@@ -210,8 +204,6 @@ The genuine nvvsvc.exe file is a software component of Nvidia Control Panel by N
 
 NvVSvc stands for Nvidia Video Driver Helper Service
 
-The genuine nvvsvc.exe file is a software component of Nvidia Control Panel by Nvidia.The Nvidia Control Panel is a hardware configuration utility for Nvidia graphics cards. Nvvsvc.exe is a core process utilized by the Nvidia Control Panel that is required to troubleshoot problems with Nvidia graphics cards. This is not an essential Windows process and can be disabled if known to create problems.The Nvidia Control Panel is a utility for the configuration and setup of Nvidia hardware without having to leave the Windows environment or boot into the BIOS. The software communicates with Nvidia's propitiatory drivers in order to utilize and optimize available features to minimize noise, increase stability, and maximize performance. The Nvidia Control Panel supports the Microsoft Windows platform.The Nvidia Corporation is an American company that manufactures GPUs (graphics processing units). The company is best known for their flagship GPU line of products called, 'GeForce'. It was founded in 1993 by Jen-Hsun Huang, Chris Malachowsky and Curtis Priem. Currently, it is one the largest companies in the computer industry and rakes in an annual $4.1 billion. Nvidia is currently headquartered in Santa Clara, California, USA.
-
 ----------------
 
 Process: igfxcuiservice.exe
@@ -220,8 +212,6 @@ Count: 1
 The genuine igfxCUIService.exe file is a software component of Intel® Common User Interface by Intel Corporation."IgfxCUIService.exe" is in the Intel® Common User Interface which installs alongside drivers for Intel® graphics cards and onboard graphic processor units (GPUs). Under Windows 8, (and later), this is the name for the module which presents a menu to select "Graphics Properties," which starts another module presenting a window to adjust color calibration and other graphics settings. (Before Windows 8, "igfxsrvc.exe" was used.) It should not be uninstalled except to install updated Intel® graphics drivers. Get driver updates from the OEM's website because they may be customized; Intel's are generic. Replacing a display's default color calibration profile with one generated by a third-party app may cause reversion to old values when waking from hibernation. Using Task Manager before hibernation to end "igfxCUIService.exe" prevents this, only until the next restart. (Consult Microsoft Support.) Intel Corporation, founded in 1968 in Santa Clara, CA, USA, is the world's largest semiconductor manufacturer.
 
 igfxCUIService stands for Intel Graphics Common User Interface Service
-
-The genuine igfxCUIService.exe file is a software component of Intel® Common User Interface by Intel Corporation."IgfxCUIService.exe" is in the Intel® Common User Interface which installs alongside drivers for Intel® graphics cards and onboard graphic processor units (GPUs). Under Windows 8, (and later), this is the name for the module which presents a menu to select "Graphics Properties," which starts another module presenting a window to adjust color calibration and other graphics settings. (Before Windows 8, "igfxsrvc.exe" was used.) It should not be uninstalled except to install updated Intel® graphics drivers. Get driver updates from the OEM's website because they may be customized; Intel's are generic. Replacing a display's default color calibration profile with one generated by a third-party app may cause reversion to old values when waking from hibernation. Using Task Manager before hibernation to end "igfxCUIService.exe" prevents this, only until the next restart. (Consult Microsoft Support.) Intel Corporation, founded in 1968 in Santa Clara, CA, USA, is the world's largest semiconductor manufacturer.
 
 ----------------
 
@@ -232,8 +222,6 @@ The genuine spoolsv.exe file is a software component of Microsoft Windows Operat
 
 SpoolSv stands for Print Spooler Service
 
-The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
-
 ----------------
 
 Process: armsvc.exe
@@ -243,8 +231,6 @@ The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Sy
 
 ArmSvc stands for Adobe Acrobat Automatic Update Service
 
-The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Systems.Armsvc.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process automatically updates Acrobat on a periodic basis. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
-
 ----------------
 
 Process: etdservice.exe
@@ -253,8 +239,6 @@ Count: 1
 The genuine ETDService.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDService.exe runs a core process associated with the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
 
 ETDService stands for Elan Trackpad Device Service
-
-The genuine ETDService.exe file is a software component of ELAN Smart-Pad by ELAN Microelectronics.ELAN Smart-Pad is a touchpad usually found on laptops. ETDService.exe runs a core process associated with the ELAN Smart-Pad. This is not an essential Windows process and can be disabled if known to create problems. ELAN Smart-Pad is an input device used for finger tracking. This device is often sold to original equipment manufacturers such as Samsung. The trackpad features two and three finger gestures as well as intuitive scrolling, zooming in and out, rotation, magnification, window-switching, tapping, and more. ELAN Smart-Pad supports the Windows platform. The ELAN Microelectronics Corporation is a Taiwanese company that designs microchips and integrated circuitry. ELAN specializes in the development of Smart Human-Machine Interface applications and is heavily invested in the research of Capacitive Touchpad. The company was founded in 1994 and is currently headquartered in Hsinchu Science Park, Taipei, Taiwan and owns offices in the US, Shenzhen, Shanghai, and Hong Kong.
 
 ----------------
 
@@ -888,8 +872,6 @@ The genuine NvStreamUserAgent.exe file is a software component of Nvidia GeForce
 
 Process: conhost.exe
 Count: 2
-
-The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
 
 ConHost stands for Console Application Host
 
