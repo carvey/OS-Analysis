@@ -4,7 +4,7 @@ import requests
 import re
 
 from collections import defaultdict
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 # echo "PATH=\$PATH:~/.local/bin" >> ~/.bashrc
 # easy_install --user pip
@@ -62,24 +62,39 @@ for line in in_file:
             if desc:
                 desc += "\n\n"
 
-            desc += additional_desc
+            if additional_desc[0:25] != desc[0:25]:
+                desc += additional_desc
              
-            procs[line] = desc
 
             rating = re.findall(r'\d+% dangerous', desc)
             if rating:
                 rating = re.findall(r'\d+%', rating[0])[0]
                 sec_rating[line] = rating
 
-        else:
+
+        url2 = "https://www.neuber.com/taskmanager/process/%s.html" % line
+        page2 = requests.get(url2)
+        print("%s: %s" % (line, page2.status_code))
+        if page2.status_code == 200:
+            soup = BeautifulSoup(page2.text, "html.parser")
+
+            content = soup.find(id="content").find_all("br")[3].next_sibling.next_sibling.text
+            if desc:
+                desc += "\n\n"
+
+            desc += content
+            print(desc)
+
+        if page.status_code != 200 and page2.status_code != 200:
             proc_errs[line] = page.status_code
+
+        if desc:
+            procs[line] = desc
 
     if line in procs_count:
         procs_count[line] += 1
     else:
         procs_count[line] = 1
-
-    # break
 
 
 # file header
