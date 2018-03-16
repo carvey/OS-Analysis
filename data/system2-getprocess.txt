@@ -8,125 +8,190 @@ Retrieval Errors: 19
 --------------------------------
 RETRIEVAL ERRORS:
 
-accomcsp.exe: 404
 athocarmyent.exe: 404
 bgelvsvc.exe: 404
-desktopmenu.exe: 404
+smartinkprivilegedaccess.exe: 404
+tsmanager.exe: 404
 floatingtools.exe: 404
-installrootservice.exe: 404
-lswmicollector.exe: 404
-responseconnectorservice.exe: 404
-responsehardwareservice.exe: 404
-responsesoftwareservice.exe: 404
+smarttrayicon.exe: 404
+vsccustomer.exe: 404
 sbwdkservice.exe: 404
 smarthelperservice.exe: 404
-smartink.exe: 404
-smartinkprivilegedaccess.exe: 404
-smartink-sbsdkproxy.exe: 404
+responsesoftwareservice.exe: 404
+lswmicollector.exe: 404
+accomcsp.exe: 404
+responsehardwareservice.exe: 404
+installrootservice.exe: 404
 smartnotification.exe: 404
-smarttrayicon.exe: 404
-tsmanager.exe: 404
-vsccustomer.exe: 404
+desktopmenu.exe: 404
+smartink-sbsdkproxy.exe: 404
+smartink.exe: 404
+responseconnectorservice.exe: 404
 
 --------------------------------
 SERVICE LIST:
 
-ac.sharedstore.exe 
-accrdsub.exe 
-acevents.exe 
-acrotray.exe 
-acsagent.exe 
-agsservice.exe 
-armsvc.exe 
-atieclxx.exe 
-atiesrxx.exe 
-audiodg.exe (3%)
-ccc.exe 
-ccmexec.exe (38%)
-cnext.exe (12%)
-conhost.exe 
-csrss.exe (4%)
-dwm.exe (19%)
+searchfilterhost.exe (7%)
+smartboardservice.exe 
+wisptis.exe (25%)
+smss.exe (5%)
+wmiprvse.exe 
 emet_agent.exe 
-emet_service.exe (9%) windows 8??
-explorer.exe (4%)
 fnplicensingservice.exe 
-idle.exe (96%)
+acsagent.exe 
+mom.exe 
+ccmexec.exe (38%)
+atiesrxx.exe 
+dwm.exe (19%)
+csrss.exe (4%)
+powershell.exe (6%)
+cnext.exe (12%)
+accrdsub.exe 
+taskhost.exe (4%)
+svchost.exe 
 inputpersonalization.exe (3%)
 lsass.exe 
-lsm.exe (3%)
-mom.exe 
+ccc.exe 
 outlook.exe (21%)
-powershell.exe (6%)
-ravbg64.exe 
-rtkaudioservice64.exe 
-rtkngui64.exe 
-searchfilterhost.exe (7%)
+audiodg.exe (3%)
 searchindexer.exe (10%)
-searchprotocolhost.exe (7%)
-services.exe (9%)
-smartboardservice.exe 
-smscliui.exe (5%)
-smss.exe (5%)
-spoolsv.exe 
-sppsvc.exe (2%)
-svchost.exe 
 system.exe 
+sppsvc.exe (2%)
+rundll32.exe (10%)
+spoolsv.exe 
+conhost.exe 
+services.exe (9%)
+rtkngui64.exe 
+searchprotocolhost.exe (7%)
 tabtip.exe (4%)
+atieclxx.exe 
+agsservice.exe 
+winlogon.exe (23%)
+ravbg64.exe 
+acrotray.exe 
+emet_service.exe (9%)
+rtkaudioservice64.exe 
 tabtip32.exe (4%)
 taskeng.exe (3%)
-taskhost.exe (4%)
+acevents.exe 
+lsm.exe (3%)
+explorer.exe (4%)
+ac.sharedstore.exe 
+idle.exe (96%)
+armsvc.exe 
+smscliui.exe (5%)
 unsecapp.exe (7%)
-rundll32.exe (10%)
-winlogon.exe (23%)
-wisptis.exe (25%)
-wmiprvse.exe 
 
 --------------------------------
 PROCESS DESCRIPTIONS
 
 
-Process: ac.sharedstore.exe
+Process: searchfilterhost.exe
 Count: 1
+Technical Security Rating: 7%
 
-The genuine ac.sharedstore.exe file is a software component of ActivClient by ActivIdentity.Ac.sharedstore.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+Description: SearchFilterHost.exe is an important part of Windows, but often causes problems. SearchFilterHost.exe is located in the C:\Windows\System32 folder.
 
-ac stands for ActivIdentity Shared Storage Server
+Known file sizes on Windows 10/8/7/XP are 86,528 bytes (37% of all occurrences), 87,552 bytes and 14 more variants.	 
 
-The genuine ac.sharedstore.exe file is a software component of ActivClient by ActivIdentity.Ac.sharedstore.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+The program has no visible window. The SearchFilterHost.exe file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 7% dangerous, however you should also read the user reviews.
 
 ----------------
 
-Process: accrdsub.exe
+Process: smartboardservice.exe
 Count: 1
 
-The genuine accrdsub.exe file is a software component of ActivClient by ActivIdentity.Accrdsub.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+The genuine SMARTBoardService.exe file is a software component of SMART Notebook by SMART Technologies.SMARTBoardService.exe is an executable file that belongs to SMART Notebook, a software program that accompanies the Smart Board, an interactive digital whiteboard that is used as experience-enhancing learning tool in classrooms, as well as in corporate environments for conducting meetings, and delivering presentations. This process runs as soon as a Smart Board is plugged into the computer. This is not a critical Windows component and should be removed if known to cause problems. The Smart Notebook lets users create text notes, graphics, and other forms of media into a virtual notebook that can be directly projected and edited using the Smart Board. Smart Technologies offers purchasers of the Smart Notebook to avail an online library of lessons, teaching resources and content shared by SMART Notebook users. The Smart Notebook can also be used with different brands of interactive hardware. Smart Technologies is a Canadian company that develops interactive whiteboards, wireless slates, student response system, interactive digital signage, interactive pen displays, classroom management software, conferencing software, concept-mapping software and many more products designed to enhance learning experience. The company is best known as the creator of the Smart Board interactive whiteboard which was first introduced in 1991. The company was founded in 1987 by David Martin and Nancy Knowlton and is currently headquartered in Calgary, Canada.
 
-Accrdsub stands for ActivIdentity card event subhandler
 
-The genuine accrdsub.exe file is a software component of ActivClient by ActivIdentity.Accrdsub.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
 
 ----------------
 
-Process: acevents.exe
+Process: wisptis.exe
 Count: 2
+Technical Security Rating: 25%
 
-The genuine acevents.exe file is a software component of ActivClient by ActivIdentity.Acevents.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+Description: Wisptis.exe is not essential for Windows and will often cause problems. Wisptis.exe is located in the C:\Windows\System32 folder.
 
-AcEventS stands for ActivIdentity Event Service
+Known file sizes on Windows 10/8/7/XP are 189,952 bytes (47% of all occurrences), 293,376 bytes and 4 more variants.	 
 
-The genuine acevents.exe file is a software component of ActivClient by ActivIdentity.Acevents.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+The program is not visible. The wisptis.exe file is not a Windows core file. The application can be removed using the Control Panel's Add\Remove programs applet.
+
+Wisptis.exe is able to record keyboard and mouse inputs.
+
+Therefore the technical security rating is 25% dangerous, however you should also read the user reviews.
+
+wisptis.exe is a pen input device tool for the Microsoft Tablet PC Platform. "WISPTIS" stands for "Windows Ink Services Platform Tablet Input Subsystem".
+wisptis.exe is installed on your system when installing Microsoft Office 2003, an Adobe product, or Journal Viewer via Windows Update.
+You cannot get rid of wisptis.exe by renaming or deleting it: Windows File Protection will cause it to be reinstalled the next time you run Adobe Acrobat or Office 2003.
+If you don't have a Tablet PC and don't want an unnecessary process eating up resources, you can uninstall Windows Journal from the add/remove programs in the control panel.
+Alternatively, you could go to Regional Settings > Language > Details and remove Advanced Text Services.
+ 
 
 ----------------
 
-Process: acrotray.exe
+Process: smss.exe
+Count: 1
+Technical Security Rating: 5%
+
+Description: The original smss.exe from Microsoft is an important part of Windows, but often causes problems. The file smss.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 50,688 bytes (77% of all occurrences), 69,632 bytes and 10 more variants.	 
+
+The program has no visible window. The smss.exe file is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 5% dangerous, however you should also read the user reviews.
+
+This is the session manager subsystem, which is responsible for starting the user session. This process is initiated by the main system thread and is responsible for various activities, including launching the Winlogon and Win32 (Csrss.exe) processes, and setting system variables. After it has launched these processes, it waits for either Winlogon or Csrss to end. If this happens normally, the system shuts down; if it happens unexpectedly, Smss.exe causes the system to stop responding (hang).
+ 
+
+----------------
+
+Process: wmiprvse.exe
+Count: 4
+
+The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
+
+WMIPrvSe stands for Windows Management Instrumentation Provider Host Service
+
+
+
+Windows® Management Instrumentation (WMI) is a component of the Microsoft® Windows® operating system that provides management information and control in an enterprise environment.
+By using industry standards, managers can use WMI to query and set information on desktop systems, applications, networks and other enterprise components.
+Developers can use WMI to create event monitoring applications that alert users when important incidents occur.
+ 
+In earlier versions of Windows, providers were loaded in-process with the Windows Management service (WinMgmt.exe), running under the LocalSystem security account. Failure of a provider caused the entire WMI service to fail; the next request to WMI restarted the service.
+
+Beginning with Windows XP, WMI resides in a shared service host with several other services. To avoid stopping all the services when a provider fails, providers are loaded into a separate host process named Wmiprvse.exe. Multiple instances of Wmiprvse.exe can run at the same time under different accounts: LocalSystem, NetworkService or LocalService. The WMI core WinMgmt.exe is loaded into the shared Local Service host named Svchost.exe.
+
+Note: wmiprvsw.exe is the Sasser worm!
+
+
+----------------
+
+Process: emet_agent.exe
 Count: 1
 
-The genuine acrotray.exe file is a software component of Adobe Acrobat by Adobe Systems.Acrotray.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process runs the system tray icon for Adobe Acrobat. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+The genuine EMET_Agent.exe file is a software component of Enhanced Mitigation Experience Toolkit by Microsoft Corporation."EMET_Agent.exe" is an authentic Microsoft process, providing the reporting capabilities of the Enhanced Mitigation Experience Toolkit (EMET) developed by Microsoft's Security Research and Defense (SRD) Team, which requires the .NET Framework 4.0 or newer. It is a 32-bit process found in "C:\Program Files\EMET\EMET_Agent.exe", (or "C:\Program Files(x86)"), called by "EMET_service.exe". It uninstalls if the Control Panel uninstalls the entire Toolkit ("EMET"). These "mitigations" apply knowledge of how malware exploits application weaknesses to obstruct them. They protect third-party applications, not system code. Although EMET works on home or enterprise computers, the Agent creates logs and notifications for enterprise audit purposes. The EMET's last release is 5.52 and its End Of Life has been extended from January 2017 to August 2018. After that, Windows 10 provides this protection. Microsoft, located in Redmond, WA, USA, has grown since its 1975 founding to become a multinational technology giant.
 
-AcroTray stands for Adobe Acrobat Tray Icon
+EMET_Agent stands for Enhanced Mitigation Experience Toolkit Reporting Agent
 
-The genuine acrotray.exe file is a software component of Adobe Acrobat by Adobe Systems.Acrotray.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process runs the system tray icon for Adobe Acrobat. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+
+
+----------------
+
+Process: fnplicensingservice.exe
+Count: 1
+
+The genuine FNPLicensingService.exe file is a software component of FLEXnet Publisher by Flexera Software."FNPLicensingService.exe" is the 32-bit version of the Windows service created by Flexera Software as a redistributable for software vendors employing FLEXnet Publisher TrustedStorage solutions to maintain license compliance. The default location to install this process is "C:\Program Files\Common Files\Macrovision Shared\FLEXnet Publisher\FNPLicensingService.exe", which few vendors change. (This may cause compatibility issues if installing products from multiple vendors if some distribute older versions of the process.) To uninstall, look in the Control Panel's "Uninstall" applet for "FlexNet Publisher." This process runs invisibly in the background on a client (node) PC and coordinates with FlexNet server processes to manage floating (vs. "node-locked") licenses usable anywhere on the network. Flexera Software, headquartered in Chicago, IL, USA, formed as Acresso in 2008 when Rovi (then Macrovision) sold a division to private equity, became Flexera in 2009. Application publishers use its tools to construct installation packages and monitor licensing compliance.
+
+FNPLicensingService stands for FlexNet Publisher Activation Licensing Service (32-bit)
+
+
+
+FNPLicensingService.exe is the 32-bit license authenticating service provided by FLEXNet Publisher. This is not a standalone process and comes bundled into many software tools that either need or recommend license activation. This might have to be run just once or every time the product is used as the process is responsible to work as necessary for the respective utility. 
 
 ----------------
 
@@ -137,76 +202,22 @@ The genuine acsagent.exe file is a software component of ActivClient by ActivIde
 
 ACSAgent stands for ActivClient Service Agent
 
-The genuine acsagent.exe file is a software component of ActivClient by ActivIdentity.Acsagent.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+
 
 ----------------
 
-Process: agsservice.exe
+Process: mom.exe
 Count: 1
 
-The genuine AGSService.exe file is a software component of Adobe Creative Suite by Adobe.Adobe Creative Suite is a bundled group of software programs featuring graphic design, video editing, and web development applications developed by Adobe. AGSService.exe checks the system for pirated Adobe software. This is not a critical Windows component and should be removed if known to cause problems. The first Adobe Creative Suite was launched on September 1, 2003. The applications that bundled with the suite were Acrobat, After Effects, Audition, Adobe Bridge, Dreamweaver, Encore, Fireworks, Flash, Illustrator, InDesign, Lightroom, Photoshop, and Premiere Pro. The last version of Adobe Creative Suite 6 was released on May 7, 2012. It is now succeeded by Adobe Creative Cloud. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+The genuine MOM.exe file is a software component of AMD Catalyst by AMD.MOM.exe is an executable file that belongs to AMD Catalyst, a device driver and utility software package meant for AMD's graphics cards. This is not an essential Windows process and can be disabled if known to create problems. AMD Catalyst is a program designed for the Windows platform that enables AMD APUs and GPUs to perform faster. The software offers over twenty features and claims up to 19% performance increase on AMD Radeon graphics and up to 29% on AMD APUs. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
 
-AGSService stands for Adobe Genuine Software Integrity Service
+Mom stands for Catalyst Control Center: Monitoring program (Mom)
 
-The genuine AGSService.exe file is a software component of Adobe Creative Suite by Adobe.Adobe Creative Suite is a bundled group of software programs featuring graphic design, video editing, and web development applications developed by Adobe. AGSService.exe checks the system for pirated Adobe software. This is not a critical Windows component and should be removed if known to cause problems. The first Adobe Creative Suite was launched on September 1, 2003. The applications that bundled with the suite were Acrobat, After Effects, Audition, Adobe Bridge, Dreamweaver, Encore, Fireworks, Flash, Illustrator, InDesign, Lightroom, Photoshop, and Premiere Pro. The last version of Adobe Creative Suite 6 was released on May 7, 2012. It is now succeeded by Adobe Creative Cloud. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
 
-----------------
 
-Process: armsvc.exe
-Count: 1
-
-The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Systems.Armsvc.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process automatically updates Acrobat on a periodic basis. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
-
-ArmSvc stands for Adobe Acrobat Automatic Update Service
-
-The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Systems.Armsvc.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process automatically updates Acrobat on a periodic basis. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
-
-----------------
-
-Process: atieclxx.exe
-Count: 1
-
-The genuine atieclxx.exe file is a software component of AMD External Events by AMD.Atieclxx.exe is an executable file associated with the ATI External Event Utility for Windows, a process that manages the ATI Hotkey feature. DLL files store data, code and resources needed by one or more programs in order to function correctly. This is not a essential Windows file and is known to take up resources. It can be safely removed without affecting other system processes. To remove it, run Msconfig, and disable the process through the 'Services' tab. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, Nvidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
-
-atieclxx stands for AMD ATI External Events Client Module
-
-The genuine atieclxx.exe file is a software component of AMD External Events by AMD.Atieclxx.exe is an executable file associated with the ATI External Event Utility for Windows, a process that manages the ATI Hotkey feature. DLL files store data, code and resources needed by one or more programs in order to function correctly. This is not a essential Windows file and is known to take up resources. It can be safely removed without affecting other system processes. To remove it, run Msconfig, and disable the process through the 'Services' tab. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, Nvidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
-
-----------------
-
-Process: atiesrxx.exe
-Count: 1
-
-The genuine atiesrxx.exe file is a software component of AMD External Events by AMD.Atiesrxx.exe is an executable file associated with the ATI External Event Utility for Windows, a process that manages the ATI Hotkey feature. DLL files store data, code and resources needed by one or more programs in order to function correctly. This is not a essential Windows file and is known to take up resources. It can be safely removed without affecting other system processes. To remove it, run Msconfig, and disable the process through the 'Services' tab. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, Nvidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
-
-atiesrxx stands for AMD ATI External Events Service Module
-
-The genuine atiesrxx.exe file is a software component of AMD External Events by AMD.Atiesrxx.exe is an executable file associated with the ATI External Event Utility for Windows, a process that manages the ATI Hotkey feature. DLL files store data, code and resources needed by one or more programs in order to function correctly. This is not a essential Windows file and is known to take up resources. It can be safely removed without affecting other system processes. To remove it, run Msconfig, and disable the process through the 'Services' tab. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, Nvidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
-
-----------------
-
-Process: audiodg.exe
-Count: 1
-Technical Security Rating: 3%
-
-Description: The original audiodg.exe from Microsoft is an important part of Windows, but often causes problems. The audiodg.exe file is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 100,864 bytes (44% of all occurrences), 88,064 bytes and 12 more variants.	 
-
-The audiodg.exe file is a Windows system file. The program is not visible. The file is a Microsoft signed file.
-
-Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: ccc.exe
-Count: 1
-
-The genuine CCC.exe file is a software component of ATI Catalyst Control Center by ATI.CCC.exe is an executable file that belongs to ATI Catalyst Control Center, a device driver and utility software package meant for AMD's graphics cards. This process launches the Catalyst Control Center. This is not an essential Windows process and can be disabled if known to create problems. ATI Catalyst Control Center is a program designed for the Windows platform that enables AMD APUs and GPUs to perform faster. The software offers over twenty features and claims up to 19% performance increase on AMD Radeon graphics and up to 29% on AMD APUs. This program is often installed along with drivers for ATI graphics cards. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, NVidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products.
-
-CCC stands for ATI Catalyst Control Center Launcher
-
-The genuine CCC.exe file is a software component of ATI Catalyst Control Center by ATI.CCC.exe is an executable file that belongs to ATI Catalyst Control Center, a device driver and utility software package meant for AMD's graphics cards. This process launches the Catalyst Control Center. This is not an essential Windows process and can be disabled if known to create problems. ATI Catalyst Control Center is a program designed for the Windows platform that enables AMD APUs and GPUs to perform faster. The software offers over twenty features and claims up to 19% performance increase on AMD Radeon graphics and up to 29% on AMD APUs. This program is often installed along with drivers for ATI graphics cards. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, NVidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products.
+MOM.exe is a process that monitors AMD graphics processing units (GPUs) and sends the information to the Catalyst Control Center, a optimization software for AMD GPUs. This is an essential process for the Catalyst Control Center. Disabling or removing this file is not recommended.
+If you want a detailed security rating about your MOM.exe (and all other running background processes) read the following user opinions, and download the free trial version of Security Task Manager.
+ 
 
 ----------------
 
@@ -221,6 +232,72 @@ Known file sizes on Windows 10/8/7/XP are 590,712 bytes (29% of all occurrences
 The program has no visible window. The file is not a Windows system file. The process can be uninstalled in the Control Panel. The program listens for or sends data on open ports to a LAN or the Internet. CcmExec.exe is certified by a trustworthy company.
 
 Therefore the technical security rating is 38% dangerous; however you should also read the user reviews.
+
+
+If you want a detailed security rating about your CcmExec.exe (and all other running background processes) read the following user opinions, and download the free trial version of Security Task Manager.
+ 
+
+----------------
+
+Process: atiesrxx.exe
+Count: 1
+
+The genuine atiesrxx.exe file is a software component of AMD External Events by AMD.Atiesrxx.exe is an executable file associated with the ATI External Event Utility for Windows, a process that manages the ATI Hotkey feature. DLL files store data, code and resources needed by one or more programs in order to function correctly. This is not a essential Windows file and is known to take up resources. It can be safely removed without affecting other system processes. To remove it, run Msconfig, and disable the process through the 'Services' tab. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, Nvidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
+
+atiesrxx stands for AMD ATI External Events Service Module
+
+
+
+----------------
+
+Process: dwm.exe
+Count: 1
+Technical Security Rating: 19%
+
+Description: The original dwm.exe from Microsoft is an important part of Windows, but often causes problems. Dwm.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 92,672 bytes (41% of all occurrences), 81,920 bytes and 15 more variants.	 
+
+Dwm.exe is a Windows core system file. The program has no visible window. The dwm.exe file is a trustworthy file from Microsoft. It can change the behavior of other programs or manipulate other programs.
+
+Therefore the technical security rating is 19% dangerous, however you should also read the user reviews.
+
+One of the new features in Windows Vista/7 is the Desktop Window Manager (DWM). It responsible for the graphical effects such as live window previews and a glass-like frame around windows (Aero Glass), without draining your CPU.
+A DWM-capable graphics card is required to enable the 3D effects, as well as Aero Glass.
+(In older Windows Vista Beta versions, the DWM effects are controlled by the User Experience Session Management Service, via "uxss.exe".)
+You can increase your computer's performance if you switch to Classic Mode (turn off Aero Glass and Animations), or reduce your screen resolution.
+ 
+
+----------------
+
+Process: csrss.exe
+Count: 2
+Technical Security Rating: 4%
+
+Description: The original csrss.exe from Microsoft is an important part of Windows, but often causes problems. Csrss.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 6,144 bytes (94% of all occurrences), 7,680 bytes and 7 more variants.	 
+
+The csrss.exe file is a Windows core system file. The program is not visible. Csrss.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+This is the user-mode portion of the Win32 subsystem; Win32.sys is the kernel-mode portion. Csrss stands for Client/Server Run-Time Subsystem, and is an essential subsystem that must be running at all times. Csrss is responsible for console windows, creating and/or deleting threads, and implementing some portions of the 16-bit virtual MS-DOS environment.
+ 
+
+----------------
+
+Process: powershell.exe
+Count: 1
+Technical Security Rating: 6%
+
+Description: The original powershell.exe is an important part of Windows and rarely causes problems. Powershell.exe is located in a subfolder of C:\Windows\System32.
+
+Known file sizes on Windows 10/8/7/XP are 452,608 bytes (47% of all occurrences), 431,616 bytes and 4 more variants.	 
+
+It is a Microsoft signed file. The program is not visible.
+
+Therefore the technical security rating is 6% dangerous.
 
 ----------------
 
@@ -240,116 +317,56 @@ Therefore the technical security rating is 12% dangerous, however you should als
 
 ----------------
 
-Process: conhost.exe
-Count: 3
+Process: accrdsub.exe
+Count: 1
 
-The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+The genuine accrdsub.exe file is a software component of ActivClient by ActivIdentity.Accrdsub.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
 
-ConHost stands for Console Application Host
+Accrdsub stands for ActivIdentity card event subhandler
 
-The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+
 
 ----------------
 
-Process: csrss.exe
+Process: taskhost.exe
 Count: 2
 Technical Security Rating: 4%
 
-Description: The original csrss.exe from Microsoft is an important part of Windows, but often causes problems. Csrss.exe is located in the C:\Windows\System32 folder.
+Description: The original taskhost.exe from Microsoft is an important part of Windows, but often causes problems. Taskhost.exe is located in the C:\Windows\System32 folder.
 
-Known file sizes on Windows 10/8/7/XP are 6,144 bytes (94% of all occurrences), 7,680 bytes and 7 more variants.	 
+Known file sizes on Windows 10/8/7/XP are 49,152 bytes (98% of all occurrences), 54,272 bytes, 76,800 bytes or 50,688 bytes.	 
 
-The csrss.exe file is a Windows core system file. The program is not visible. Csrss.exe is a trustworthy file from Microsoft.
-
-Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: dwm.exe
-Count: 1
-Technical Security Rating: 19%
-
-Description: The original dwm.exe from Microsoft is an important part of Windows, but often causes problems. Dwm.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 92,672 bytes (41% of all occurrences), 81,920 bytes and 15 more variants.	 
-
-Dwm.exe is a Windows core system file. The program has no visible window. The dwm.exe file is a trustworthy file from Microsoft. It can change the behavior of other programs or manipulate other programs.
-
-Therefore the technical security rating is 19% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: emet_agent.exe
-Count: 1
-
-The genuine EMET_Agent.exe file is a software component of Enhanced Mitigation Experience Toolkit by Microsoft Corporation."EMET_Agent.exe" is an authentic Microsoft process, providing the reporting capabilities of the Enhanced Mitigation Experience Toolkit (EMET) developed by Microsoft's Security Research and Defense (SRD) Team, which requires the .NET Framework 4.0 or newer. It is a 32-bit process found in "C:\Program Files\EMET\EMET_Agent.exe", (or "C:\Program Files(x86)"), called by "EMET_service.exe". It uninstalls if the Control Panel uninstalls the entire Toolkit ("EMET"). These "mitigations" apply knowledge of how malware exploits application weaknesses to obstruct them. They protect third-party applications, not system code. Although EMET works on home or enterprise computers, the Agent creates logs and notifications for enterprise audit purposes. The EMET's last release is 5.52 and its End Of Life has been extended from January 2017 to August 2018. After that, Windows 10 provides this protection. Microsoft, located in Redmond, WA, USA, has grown since its 1975 founding to become a multinational technology giant.
-
-EMET_Agent stands for Enhanced Mitigation Experience Toolkit Reporting Agent
-
-The genuine EMET_Agent.exe file is a software component of Enhanced Mitigation Experience Toolkit by Microsoft Corporation."EMET_Agent.exe" is an authentic Microsoft process, providing the reporting capabilities of the Enhanced Mitigation Experience Toolkit (EMET) developed by Microsoft's Security Research and Defense (SRD) Team, which requires the .NET Framework 4.0 or newer. It is a 32-bit process found in "C:\Program Files\EMET\EMET_Agent.exe", (or "C:\Program Files(x86)"), called by "EMET_service.exe". It uninstalls if the Control Panel uninstalls the entire Toolkit ("EMET"). These "mitigations" apply knowledge of how malware exploits application weaknesses to obstruct them. They protect third-party applications, not system code. Although EMET works on home or enterprise computers, the Agent creates logs and notifications for enterprise audit purposes. The EMET's last release is 5.52 and its End Of Life has been extended from January 2017 to August 2018. After that, Windows 10 provides this protection. Microsoft, located in Redmond, WA, USA, has grown since its 1975 founding to become a multinational technology giant.
-
-----------------
-
-Process: emet_service.exe
-Count: 1
-Technical Security Rating: 9%
-
-Description: EMET_Service.exe is not essential for the Windows OS and causes relatively few problems. EMET_Service.exe is located in a subfolder of "C:\Program Files".
-
-Known file sizes on Windows 10/8/7/XP are 31,880 bytes (50% of all occurrences), 33,464 bytes or 22,680 bytes.	 
-
-The program has no visible window. It is digitally signed. It is not a Windows system file. You can uninstall this program in the Control Panel.
-
-Therefore the technical security rating is 9% dangerous.
-
-----------------
-
-Process: explorer.exe
-Count: 1
-Technical Security Rating: 4%
-
-Description: The original explorer.exe from Microsoft is an important part of Windows, but often causes problems. Explorer.exe is located in the C:\Windows folder.
-
-Known file sizes on Windows 10/8/7/XP are 1,033,728 bytes (14% of all occurrences), 2,871,808 bytes and 352 more variants.	 
-
-Explorer.exe is a Windows core system file. The program has a visible window. Explorer.exe is a Microsoft signed file.
-
-Explorer.exe is able to record keyboard and mouse inputs.
+Taskhost.exe is a Windows core system file. The program is not visible. Taskhost.exe is a Microsoft signed file.
 
 Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
 
 ----------------
 
-Process: fnplicensingservice.exe
-Count: 1
+Process: svchost.exe
+Count: 15
 
-The genuine FNPLicensingService.exe file is a software component of FLEXnet Publisher by Flexera Software."FNPLicensingService.exe" is the 32-bit version of the Windows service created by Flexera Software as a redistributable for software vendors employing FLEXnet Publisher TrustedStorage solutions to maintain license compliance. The default location to install this process is "C:\Program Files\Common Files\Macrovision Shared\FLEXnet Publisher\FNPLicensingService.exe", which few vendors change. (This may cause compatibility issues if installing products from multiple vendors if some distribute older versions of the process.) To uninstall, look in the Control Panel's "Uninstall" applet for "FlexNet Publisher." This process runs invisibly in the background on a client (node) PC and coordinates with FlexNet server processes to manage floating (vs. "node-locked") licenses usable anywhere on the network. Flexera Software, headquartered in Chicago, IL, USA, formed as Acresso in 2008 when Rovi (then Macrovision) sold a division to private equity, became Flexera in 2009. Application publishers use its tools to construct installation packages and monitor licensing compliance.
+The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
 
-FNPLicensingService stands for FlexNet Publisher Activation Licensing Service (32-bit)
+SvcHost stands for Service Host
 
-The genuine FNPLicensingService.exe file is a software component of FLEXnet Publisher by Flexera Software."FNPLicensingService.exe" is the 32-bit version of the Windows service created by Flexera Software as a redistributable for software vendors employing FLEXnet Publisher TrustedStorage solutions to maintain license compliance. The default location to install this process is "C:\Program Files\Common Files\Macrovision Shared\FLEXnet Publisher\FNPLicensingService.exe", which few vendors change. (This may cause compatibility issues if installing products from multiple vendors if some distribute older versions of the process.) To uninstall, look in the Control Panel's "Uninstall" applet for "FlexNet Publisher." This process runs invisibly in the background on a client (node) PC and coordinates with FlexNet server processes to manage floating (vs. "node-locked") licenses usable anywhere on the network. Flexera Software, headquartered in Chicago, IL, USA, formed as Acresso in 2008 when Rovi (then Macrovision) sold a division to private equity, became Flexera in 2009. Application publishers use its tools to construct installation packages and monitor licensing compliance.
 
-----------------
 
-Process: idle.exe
-Count: 1
-Technical Security Rating: 96%
+"Svchost.exe" (Generic Host Process for Win32 Services) is an integral part of Windows OS. It cannot be stopped or restarted manually.
+This process manages system services that run from dynamic link libraries (files with extension .dll).
+Examples for such system services are: "Automatic Updates", "Windows Firewall", "Plug and Play", "Fax Service", "Windows Themes" and many more.
+ 
+At startup, Svchost.exe checks the services portion of the registry and constructs a list of services that it needs to load.
+Under normal conditions, multiple instances of Svchost.exe will be running simultaneously. Each Svchost.exe session can contain a grouping of services,
+so that many services can be run depending on how and where Svchost.exe is started. This allows for better control and debugging.
 
-Most antivirus programs identify idle.exe as malware.
+If the process svchost.exe uses high cpu resources, it is mostly due because the service "Automatic Updates" is downloading some new Windows update.
+But having a 99% or 100% cpu usage could be caused by downloads due of some hidden malware on your computer.
+Some malware like the Conficker worm changes the Windows Registry so that svchost loads the malware .dll file. In this case you only see the authentic svchost.exe process in the task manager!
+Use our free Svchost Analyzer to find such malware.
 
-The free file information forum can help you find out how to remove it. If you have additional information about this file, please leave a comment or a suggestion for other users.
+See also:
+Microsoft reference
 
-Description: Idle.exe is not essential for Windows and will often cause problems. The idle.exe file is located in a subfolder of "C:\Program Files".
-
-The file size on Windows 10/8/7/XP is 331,171 bytes.	 
-
-The program has no file description. The software starts when Windows starts (see Registry key: MACHINE\User Shell Folders).
-
-Idle.exe is not a Windows system file.
-
-Idle.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
-
-Therefore the technical security rating is 96% dangerous.
 
 ----------------
 
@@ -374,32 +391,25 @@ The genuine lsass.exe file is a software component of Microsoft Windows by Micro
 
 LSASS stands for Local Security Authority Subsystem Service
 
-The genuine lsass.exe file is a software component of Microsoft Windows by Microsoft Corporation.If "lsass.exe" resides in "C:\Windows\System32", it is the Microsoft Windows Operating System's Local Security Authority Subsystem Service. Six critical Windows services involved in the computer's security management are dynamic link library (.dll) files which are called by "lsass.exe". These include "vaultsvc.dll", which controls access to credentials of users and applications; "efssvc.dll", central to storage of encrypted files on NTFS-type disk volumes; and "samsrv.dll", the Security Accounts Manager. If the real "lsass.exe" is forcibly stopped the machine is forced into a restart because the Welcome screen loses its account(s). It also cannot be uninstalled. In other locations, assume "lsass.exe" is disguised malware, which may include extremely dangerous Trojans or worms. A spyware or malware removal program may be needed to remove such files.
+
+
+"lsass.exe" is the Local Security Authentication Server. It verifies the validity of user logons to your PC or server.
+Lsass generates the process responsible for authenticating users for the Winlogon service.
+This is performed by using authentication packages such as the default, Msgina.dll. If authentication is successful,
+Lsass generates the user's access token, which is used to launch the initial shell. Other processes that the user initiates then inherit this token.
+
+ 
 
 ----------------
 
-Process: lsm.exe
-Count: 1
-Technical Security Rating: 3%
-
-Description: The original lsm.exe from Microsoft is an important part of Windows, but often causes problems. Lsm.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 267,776 bytes (41% of all occurrences), 229,888 bytes and 4 more variants.	 
-
-The file is a Windows core system file. The program is not visible. Lsm.exe is a Microsoft signed file.
-
-Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: mom.exe
+Process: ccc.exe
 Count: 1
 
-The genuine MOM.exe file is a software component of AMD Catalyst by AMD.MOM.exe is an executable file that belongs to AMD Catalyst, a device driver and utility software package meant for AMD's graphics cards. This is not an essential Windows process and can be disabled if known to create problems. AMD Catalyst is a program designed for the Windows platform that enables AMD APUs and GPUs to perform faster. The software offers over twenty features and claims up to 19% performance increase on AMD Radeon graphics and up to 29% on AMD APUs. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
+The genuine CCC.exe file is a software component of ATI Catalyst Control Center by ATI.CCC.exe is an executable file that belongs to ATI Catalyst Control Center, a device driver and utility software package meant for AMD's graphics cards. This process launches the Catalyst Control Center. This is not an essential Windows process and can be disabled if known to create problems. ATI Catalyst Control Center is a program designed for the Windows platform that enables AMD APUs and GPUs to perform faster. The software offers over twenty features and claims up to 19% performance increase on AMD Radeon graphics and up to 29% on AMD APUs. This program is often installed along with drivers for ATI graphics cards. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, NVidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products.
 
-Mom stands for Catalyst Control Center: Monitoring program (Mom)
+CCC stands for ATI Catalyst Control Center Launcher
 
-The genuine MOM.exe file is a software component of AMD Catalyst by AMD.MOM.exe is an executable file that belongs to AMD Catalyst, a device driver and utility software package meant for AMD's graphics cards. This is not an essential Windows process and can be disabled if known to create problems. AMD Catalyst is a program designed for the Windows platform that enables AMD APUs and GPUs to perform faster. The software offers over twenty features and claims up to 19% performance increase on AMD Radeon graphics and up to 29% on AMD APUs. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
+
 
 ----------------
 
@@ -417,66 +427,28 @@ Outlook.exe is able to record keyboard and mouse inputs.
 
 Therefore the technical security rating is 21% dangerous, however you should also read the user reviews.
 
+Part of the Microsoft Office suite, Outlook is a mail program that can run as a background process if configured to do so. By default it only runs when selected. Outlook can synchronize to multiple mailboxes and includes calendar features for scheduling purposes. Microsoft Office was introduced in 1988 with three programs. It has since expanded to include many more applications and Visual Basic support for each. Office is currently used by over one billion users. 
+If you want a detailed security rating about your outlook.exe (and all other running background processes) read the following user opinions, and download the free trial version of Security Task Manager.
+
+
 ----------------
 
-Process: powershell.exe
+Process: audiodg.exe
 Count: 1
-Technical Security Rating: 6%
+Technical Security Rating: 3%
 
-Description: The original powershell.exe is an important part of Windows and rarely causes problems. Powershell.exe is located in a subfolder of C:\Windows\System32.
+Description: The original audiodg.exe from Microsoft is an important part of Windows, but often causes problems. The audiodg.exe file is located in the C:\Windows\System32 folder.
 
-Known file sizes on Windows 10/8/7/XP are 452,608 bytes (47% of all occurrences), 431,616 bytes and 4 more variants.	 
+Known file sizes on Windows 10/8/7/XP are 100,864 bytes (44% of all occurrences), 88,064 bytes and 12 more variants.	 
 
-It is a Microsoft signed file. The program is not visible.
+The audiodg.exe file is a Windows system file. The program is not visible. The file is a Microsoft signed file.
 
-Therefore the technical security rating is 6% dangerous.
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
 
-----------------
-
-Process: ravbg64.exe
-Count: 4
-
-The genuine RAVBg64.exe file is a software component of Realtek High Definition Audio Driver by Realtek Semiconductor.RAVBg64.exe is the main process behind the Realtek Audio Driver. It is not an essential Windows file and causes no problems. It is always located in a subfolder of "C:\Program Files". There have been reports of Malware disguising itself as RAVBg64.exe. If you have any doubts, scan this file with an anti-virus software. The Realtek HD Audio driver is the interface between the Windows operating system and your hardware (speakers). High Definition Audio, known as HD Audio, is an audio standard from Intel. It was released by Intel in 2004 as a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek, a Taiwanese fabless semiconductor company founded in 1987.
-
-RAVBg64 stands for Realtek Audio-Video Background process (64 Bit)
-
-The genuine RAVBg64.exe file is a software component of Realtek High Definition Audio Driver by Realtek Semiconductor.RAVBg64.exe is the main process behind the Realtek Audio Driver. It is not an essential Windows file and causes no problems. It is always located in a subfolder of "C:\Program Files". There have been reports of Malware disguising itself as RAVBg64.exe. If you have any doubts, scan this file with an anti-virus software. The Realtek HD Audio driver is the interface between the Windows operating system and your hardware (speakers). High Definition Audio, known as HD Audio, is an audio standard from Intel. It was released by Intel in 2004 as a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek, a Taiwanese fabless semiconductor company founded in 1987.
-
-----------------
-
-Process: rtkaudioservice64.exe
-Count: 1
-
-The genuine RtkAudioService64.exe file is a software component of Realtek High Definition Audio Driver by Realtek.The Realtek HD Audio Driver is an interface between the Windows operating system and the Realtek HD Audio Card. RtkAudioService64.exe runs a core process that belongs to Realtek HD Audio. This is not an essential Windows process and can be disabled if known to create problems.The Realtek HD Audio Driver is a software interface for Realtek HD Audio, an audio chipset that uses audio codecs and standards developed by Intel. Realtek HD Audio is a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek.Realtek is a Taiwanese fabless semiconductor company founded in 1987. Realtek employs over 2,000 people, most of which work in research and development. The company manufactures and sells a wide variety of products based on Integrated Circuitry throughout the world. Its products broadly cover communications networks, computer peripherals and multimedia. Realtek is currently headquartered in Hsinchu Science Park, Hsinchu, Taiwan.
-
-RtkAudioService64 stands for Realtek High Definition Audio Service (64-bit)
-
-The genuine RtkAudioService64.exe file is a software component of Realtek High Definition Audio Driver by Realtek.The Realtek HD Audio Driver is an interface between the Windows operating system and the Realtek HD Audio Card. RtkAudioService64.exe runs a core process that belongs to Realtek HD Audio. This is not an essential Windows process and can be disabled if known to create problems.The Realtek HD Audio Driver is a software interface for Realtek HD Audio, an audio chipset that uses audio codecs and standards developed by Intel. Realtek HD Audio is a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek.Realtek is a Taiwanese fabless semiconductor company founded in 1987. Realtek employs over 2,000 people, most of which work in research and development. The company manufactures and sells a wide variety of products based on Integrated Circuitry throughout the world. Its products broadly cover communications networks, computer peripherals and multimedia. Realtek is currently headquartered in Hsinchu Science Park, Hsinchu, Taiwan.
-
-----------------
-
-Process: rtkngui64.exe
-Count: 1
-
-The genuine RtkNGUI64.exe file is a software component of Realtek High Definition Audio Driver by Realtek.The Realtek HD Audio Driver is an interface between the Windows operating system and the Realtek HD Audio Card. RtkNGUI64.exe runs the Realtek HD Audio Manager Graphical User Interface, a volume configuration menu that is part of Realtek HD Audio. This is not an essential Windows process and can be disabled if known to create problems.The Realtek HD Audio Driver is a software interface for Realtek HD Audio, an audio chipset that uses audio codecs and standards developed by Intel. Realtek HD Audio is a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek.Realtek is a Taiwanese fabless semiconductor company founded in 1987. Realtek employs over 2,000 people, most of which work in research and development. The company manufactures and sells a wide variety of products based on Integrated Circuitry throughout the world. Its products broadly cover communications networks, computer peripherals and multimedia. Realtek is currently headquartered in Hsinchu Science Park, Hsinchu, Taiwan.
-
-RtknGUI64 stands for Realtek HD Audio Manager Graphical User Interface (64-bit)
-
-The genuine RtkNGUI64.exe file is a software component of Realtek High Definition Audio Driver by Realtek.The Realtek HD Audio Driver is an interface between the Windows operating system and the Realtek HD Audio Card. RtkNGUI64.exe runs the Realtek HD Audio Manager Graphical User Interface, a volume configuration menu that is part of Realtek HD Audio. This is not an essential Windows process and can be disabled if known to create problems.The Realtek HD Audio Driver is a software interface for Realtek HD Audio, an audio chipset that uses audio codecs and standards developed by Intel. Realtek HD Audio is a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek.Realtek is a Taiwanese fabless semiconductor company founded in 1987. Realtek employs over 2,000 people, most of which work in research and development. The company manufactures and sells a wide variety of products based on Integrated Circuitry throughout the world. Its products broadly cover communications networks, computer peripherals and multimedia. Realtek is currently headquartered in Hsinchu Science Park, Hsinchu, Taiwan.
-
-----------------
-
-Process: searchfilterhost.exe
-Count: 1
-Technical Security Rating: 7%
-
-Description: SearchFilterHost.exe is an important part of Windows, but often causes problems. SearchFilterHost.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 86,528 bytes (37% of all occurrences), 87,552 bytes and 14 more variants.	 
-
-The program has no visible window. The SearchFilterHost.exe file is a trustworthy file from Microsoft.
-
-Therefore the technical security rating is 7% dangerous, however you should also read the user reviews.
+"audiodg.exe" is a part of Windows Vista/7/8/10.
+System services like audio drivers run in different and isolated login session from the locally logged-in user in Windows Vista/7/8/10.
+This ensures that content and plug-ins cannot be modified by other applications (e.g. by spyware).
+ 
 
 ----------------
 
@@ -492,81 +464,18 @@ The program is not visible. The SearchIndexer.exe file is a Microsoft signed fil
 
 Therefore the technical security rating is 10% dangerous, however you should also read the user reviews.
 
-----------------
-
-Process: searchprotocolhost.exe
-Count: 1
-Technical Security Rating: 7%
-
-Description: SearchProtocolHost.exe is an important part of Windows, but often causes problems. The file SearchProtocolHost.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 164,352 bytes (40% of all occurrences), 184,832 bytes and 18 more variants.	 
-
-The program is not visible. It is a trustworthy file from Microsoft.
-
-Therefore the technical security rating is 7% dangerous; however you should also read the user reviews.
+SearchIndexer.exe maps files on the local drive making them easier to search. This is a critical part of the Windows operating system and should not be disabled or removed.
+If you want a detailed security rating about your SearchIndexer.exe (and all other running background processes) read the following user opinions, and download the free trial version of Security Task Manager.
+ 
 
 ----------------
 
-Process: services.exe
-Count: 1
-Technical Security Rating: 9%
-
-Description: The original services.exe from Microsoft is an important part of Windows, but often causes problems. Services.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 110,592 bytes (21% of all occurrences), 108,544 bytes and 25 more variants.	 
-
-The program has no visible window. Services.exe is a trustworthy file from Microsoft.
-
-Therefore the technical security rating is 9% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: smartboardservice.exe
+Process: system.exe
 Count: 1
 
-The genuine SMARTBoardService.exe file is a software component of SMART Notebook by SMART Technologies.SMARTBoardService.exe is an executable file that belongs to SMART Notebook, a software program that accompanies the Smart Board, an interactive digital whiteboard that is used as experience-enhancing learning tool in classrooms, as well as in corporate environments for conducting meetings, and delivering presentations. This process runs as soon as a Smart Board is plugged into the computer. This is not a critical Windows component and should be removed if known to cause problems. The Smart Notebook lets users create text notes, graphics, and other forms of media into a virtual notebook that can be directly projected and edited using the Smart Board. Smart Technologies offers purchasers of the Smart Notebook to avail an online library of lessons, teaching resources and content shared by SMART Notebook users. The Smart Notebook can also be used with different brands of interactive hardware. Smart Technologies is a Canadian company that develops interactive whiteboards, wireless slates, student response system, interactive digital signage, interactive pen displays, classroom management software, conferencing software, concept-mapping software and many more products designed to enhance learning experience. The company is best known as the creator of the Smart Board interactive whiteboard which was first introduced in 1991. The company was founded in 1987 by David Martin and Nancy Knowlton and is currently headquartered in Calgary, Canada.
+The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
 
-The genuine SMARTBoardService.exe file is a software component of SMART Notebook by SMART Technologies.SMARTBoardService.exe is an executable file that belongs to SMART Notebook, a software program that accompanies the Smart Board, an interactive digital whiteboard that is used as experience-enhancing learning tool in classrooms, as well as in corporate environments for conducting meetings, and delivering presentations. This process runs as soon as a Smart Board is plugged into the computer. This is not a critical Windows component and should be removed if known to cause problems. The Smart Notebook lets users create text notes, graphics, and other forms of media into a virtual notebook that can be directly projected and edited using the Smart Board. Smart Technologies offers purchasers of the Smart Notebook to avail an online library of lessons, teaching resources and content shared by SMART Notebook users. The Smart Notebook can also be used with different brands of interactive hardware. Smart Technologies is a Canadian company that develops interactive whiteboards, wireless slates, student response system, interactive digital signage, interactive pen displays, classroom management software, conferencing software, concept-mapping software and many more products designed to enhance learning experience. The company is best known as the creator of the Smart Board interactive whiteboard which was first introduced in 1991. The company was founded in 1987 by David Martin and Nancy Knowlton and is currently headquartered in Calgary, Canada.
 
-----------------
-
-Process: smscliui.exe
-Count: 1
-Technical Security Rating: 5%
-
-Description: SMSCliUI.exe is not essential for the Windows OS and causes relatively few problems. SMSCliUI.exe is located in a subfolder of C:\Windows\System32.
-
-Known file sizes on Windows 8/7/XP are 219,648 bytes (50% of all occurrences), 369,696 bytes or 367,968 bytes.	 There is an icon for this program on the taskbar next to the clock.
-
-The program has a visible window. It is not a Windows core file. You can uninstall this program in the Control Panel.
-
-Therefore the technical security rating is 5% dangerous.If you have any problems with SMSCliUI.exe, you may want to remove the entire program Configuration Manager Client or SMS Advanced Client using Windows Control Panel.
-
-----------------
-
-Process: smss.exe
-Count: 1
-Technical Security Rating: 5%
-
-Description: The original smss.exe from Microsoft is an important part of Windows, but often causes problems. The file smss.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 50,688 bytes (77% of all occurrences), 69,632 bytes and 10 more variants.	 
-
-The program has no visible window. The smss.exe file is a trustworthy file from Microsoft.
-
-Therefore the technical security rating is 5% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: spoolsv.exe
-Count: 1
-
-The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
-
-SpoolSv stands for Print Spooler Service
-
-The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
 
 ----------------
 
@@ -584,23 +493,91 @@ Therefore the technical security rating is 2% dangerous; however you should also
 
 ----------------
 
-Process: svchost.exe
-Count: 15
+Process: rundll32.exe
+Count: 1
+Technical Security Rating: 10%
 
-The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
+Description: The original rundll32.exe from Microsoft is an important part of Windows, but often causes problems. Rundll32.exe is located in the C:\Windows\System32 folder.
 
-SvcHost stands for Service Host
+Known file sizes on Windows 10/8/7/XP are 33,280 bytes (52% of all occurrences), 33,792 bytes and 42 more variants.	 
 
-The genuine svchost.exe file is a software component of Windows by Microsoft.This is a genuine Windows system file. Svchost.exe is a process on your computer that hosts, or contains, other individual services that Windows uses to perform various functions. For example, Windows Defender and Windows Update use a service that is hosted by a svchost.exe process. The file often connects to www.windowsupdate.microsoft.com by either visiting the Microsoft Update website, Microsoft Windows Update website, or through automatic updating without a browser. "svchost.exe" is the host processor that manages the group of update service DLLs in the database from the Windows User Automatic Updates Server (WUAUSERV) by way of IP management and port protocol. Microsoft, known for their leading worldwide operating systems, provides global solutions for home and business audiences through innovative programming, product developments, software applications, and networking processes.
+The file is a Microsoft signed file.
+
+Therefore the technical security rating is 10% dangerous, however you should also read the user reviews.
+
+This program is part of Windows, and is used to run program code in DLL files as if they were within the actual program. However, many viruses also use this name or similar ones. This file is also commonly used by spyware to launch its own malicious code.
+ 
 
 ----------------
 
-Process: system.exe
+Process: spoolsv.exe
 Count: 1
 
-The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
+The genuine spoolsv.exe file is a software component of Microsoft Windows Operating System by Microsoft.Spoolsv.exe is an executable file that runs the Print Spooler Service, a process that caches printing jobs into system memory as images as printers cannot understand fonts or decipher graphics. This process sometimes takes a huge amount of system resources as processing different file formats into an image suitable for printing often takes time and a lot of memory. To clear this memory and stop the process, simply right click on the printer icon in the Taskbar and select, 'Exit'. This is a core Windows process so disabling it from the Task Manager may result in a critical failure causing the system to automatically reboot. Microsoft was founded in 1975 by Bill Gates and Paul Allen and quickly rose to prominence following the launch of their popular operating system, MS-DOS, for early personally computers. Microsoft began developing graphical user interface and the distinguishable Start-button on the introduction on Windows 95. Further additions like networking and security soon followed. 
 
-The genuine system.exe file is a software component of Malware.Microsoft Windows does not have an executable file named "system.exe", but there are numerous unwanted or malicious programs using that name, one of which may become installed in "C:\Windows\System32" and therefore show a "Command Line" field in Task Manager saying, "C:\Windows\System32\system.exe". When Windows is running there is a valid System process in Task Manager but its "Command Line" field is blank because what is running are system threads handling network i/o, disk i/o, and the actual kernel itself. Some malware using the "system.exe" name may have false internal data attributing itself to Microsoft, even saying "Microsoft Windows Operating System". Be careful about deleting a "system.exe" file which appears in a legitimate third-party application's subfolder tree, but in "C:\Windows" no such file should exist. Microsoft Corporation in Redmond, Washington, USA, is a multinational technology company founded April 4, 1975 by Paul Allen and Bill Gates.
+SpoolSv stands for Print Spooler Service
+
+
+
+The spooler service is responsible for managing spooled print/fax jobs. Spooling allows you to print in the background without your computer being tied up.
+ 
+
+----------------
+
+Process: conhost.exe
+Count: 3
+
+The genuine conhost.exe file is a software component of Microsoft Windows/Microsoft Server by Microsoft Corporation.At least two "conhost.exe" programs exist, one an essential Microsoft Windows system process and one a Trojan. The Microsoft Console Host program resides in "C:\Windows\System32" and should not be removed. It was created for Windows 7 and Windows Server 2008 R2 to thwart malware exploitation. In WinXP, "console applications" without GUI's, run with parameters from the command prompt, used a kernel call to send messages to "CSRSS.exe" for processing. "CSRSS.exe" has local system account privileges, which some malware exploited. "Conhost.exe" is a step before "CSRSS.exe" which has only the application's privileges and frustrates such exploits. The older Trojan "conhost.exe" predates Microsoft's. It is a crypto-currency miner, in a temporary folder, using up to 100% of the CPU to find Bitcoin or Monero crypto-currency units on other computers and send them elsewhere. It may mean the dangerous TDSS botnet virus is present, which Kaspersky's free tool removes.
+
+ConHost stands for Console Application Host
+
+
+
+----------------
+
+Process: services.exe
+Count: 1
+Technical Security Rating: 9%
+
+Description: The original services.exe from Microsoft is an important part of Windows, but often causes problems. Services.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 110,592 bytes (21% of all occurrences), 108,544 bytes and 25 more variants.	 
+
+The program has no visible window. Services.exe is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 9% dangerous, however you should also read the user reviews.
+
+This is the Services Control Manager, which is responsible for running, ending, and interacting with system services. Use this program to start services, stop them, or change their default from automatic to manual startup.
+ 
+
+----------------
+
+Process: rtkngui64.exe
+Count: 1
+
+The genuine RtkNGUI64.exe file is a software component of Realtek High Definition Audio Driver by Realtek.The Realtek HD Audio Driver is an interface between the Windows operating system and the Realtek HD Audio Card. RtkNGUI64.exe runs the Realtek HD Audio Manager Graphical User Interface, a volume configuration menu that is part of Realtek HD Audio. This is not an essential Windows process and can be disabled if known to create problems.The Realtek HD Audio Driver is a software interface for Realtek HD Audio, an audio chipset that uses audio codecs and standards developed by Intel. Realtek HD Audio is a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek.Realtek is a Taiwanese fabless semiconductor company founded in 1987. Realtek employs over 2,000 people, most of which work in research and development. The company manufactures and sells a wide variety of products based on Integrated Circuitry throughout the world. Its products broadly cover communications networks, computer peripherals and multimedia. Realtek is currently headquartered in Hsinchu Science Park, Hsinchu, Taiwan.
+
+RtknGUI64 stands for Realtek HD Audio Manager Graphical User Interface (64-bit)
+
+
+
+----------------
+
+Process: searchprotocolhost.exe
+Count: 1
+Technical Security Rating: 7%
+
+Description: SearchProtocolHost.exe is an important part of Windows, but often causes problems. The file SearchProtocolHost.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 164,352 bytes (40% of all occurrences), 184,832 bytes and 18 more variants.	 
+
+The program is not visible. It is a trustworthy file from Microsoft.
+
+Therefore the technical security rating is 7% dangerous; however you should also read the user reviews.
+
+SearchProtocolHost.exe is part of the Windows Indexing Service, an application that indexes files on the local drive making them easier to search. This is a crucial part of the Windows operating system and should not be disabled or removed.
+If you want a detailed security rating about your SearchProtocolHost.exe (and all other running background processes) read the following user opinions, and download the free trial version of Security Task Manager.
+ 
 
 ----------------
 
@@ -617,6 +594,97 @@ The TabTip.exe file is a Windows core system file. TabTip.exe is a Microsoft sig
 TabTip.exe is able to monitor applications.
 
 Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+----------------
+
+Process: atieclxx.exe
+Count: 1
+
+The genuine atieclxx.exe file is a software component of AMD External Events by AMD.Atieclxx.exe is an executable file associated with the ATI External Event Utility for Windows, a process that manages the ATI Hotkey feature. DLL files store data, code and resources needed by one or more programs in order to function correctly. This is not a essential Windows file and is known to take up resources. It can be safely removed without affecting other system processes. To remove it, run Msconfig, and disable the process through the 'Services' tab. ATI Technologies Inc. was a Canadian company that developed semiconductor technology. It specialized in the manufacture of graphics processing units and chipsets. It was founded in 1985 by Lee Ka Lau, Francis Lau, Benny Lau, and Kwok Yuen Ho, as Array Technologies Industry. It was bought by Advanced Micro Devices (AMD) for $5.6 billion in 2006 as part of AMD's strategic development of its Fusion generation of computer processors. ATI and its main competitor, Nvidia, forced other manufacturers into narrower roles in the market as they achieved dominance in the graphics processor market. Today, AMD no longer uses the ATI brand name for any of their products. Advanced Micro Devices (AMD) is an American corporation that develops solutions in semiconductor technology and its applications in computer processors, motherboards, graphics processors and embedded systems for business and consumer markets. The company was founded in 1969 by Jerry Sanders and is currently based in Sunnyvale, California, United States. 
+
+atieclxx stands for AMD ATI External Events Client Module
+
+
+
+----------------
+
+Process: agsservice.exe
+Count: 1
+
+The genuine AGSService.exe file is a software component of Adobe Creative Suite by Adobe.Adobe Creative Suite is a bundled group of software programs featuring graphic design, video editing, and web development applications developed by Adobe. AGSService.exe checks the system for pirated Adobe software. This is not a critical Windows component and should be removed if known to cause problems. The first Adobe Creative Suite was launched on September 1, 2003. The applications that bundled with the suite were Acrobat, After Effects, Audition, Adobe Bridge, Dreamweaver, Encore, Fireworks, Flash, Illustrator, InDesign, Lightroom, Photoshop, and Premiere Pro. The last version of Adobe Creative Suite 6 was released on May 7, 2012. It is now succeeded by Adobe Creative Cloud. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+
+AGSService stands for Adobe Genuine Software Integrity Service
+
+
+
+----------------
+
+Process: winlogon.exe
+Count: 1
+Technical Security Rating: 23%
+
+Description: The original winlogon.exe from Microsoft is an important part of Windows, but often causes problems. Winlogon.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 507,904 bytes (20% of all occurrences), 502,272 bytes and 124 more variants.	 
+
+The program is not visible. The file is a trustworthy file from Microsoft.
+
+Winlogon.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
+
+Therefore the technical security rating is 23% dangerous, however you should also read the user reviews.
+
+The process "winlogon.exe" runs in the background. Winlogon is a part of the Windows Login subsystem, and is necessary for user authorization and Windows activation checks.
+ 
+
+----------------
+
+Process: ravbg64.exe
+Count: 4
+
+The genuine RAVBg64.exe file is a software component of Realtek High Definition Audio Driver by Realtek Semiconductor.RAVBg64.exe is the main process behind the Realtek Audio Driver. It is not an essential Windows file and causes no problems. It is always located in a subfolder of "C:\Program Files". There have been reports of Malware disguising itself as RAVBg64.exe. If you have any doubts, scan this file with an anti-virus software. The Realtek HD Audio driver is the interface between the Windows operating system and your hardware (speakers). High Definition Audio, known as HD Audio, is an audio standard from Intel. It was released by Intel in 2004 as a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek, a Taiwanese fabless semiconductor company founded in 1987.
+
+RAVBg64 stands for Realtek Audio-Video Background process (64 Bit)
+
+
+
+----------------
+
+Process: acrotray.exe
+Count: 1
+
+The genuine acrotray.exe file is a software component of Adobe Acrobat by Adobe Systems.Acrotray.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process runs the system tray icon for Adobe Acrobat. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+
+AcroTray stands for Adobe Acrobat Tray Icon
+
+
+
+"acrotray.exe" is the Adobe Acrobat Distiller helper application. It is used as part of the full Adobe Acrobat product to convert documents into PDF files.
+ 
+
+----------------
+
+Process: emet_service.exe
+Count: 1
+Technical Security Rating: 9%
+
+Description: EMET_Service.exe is not essential for the Windows OS and causes relatively few problems. EMET_Service.exe is located in a subfolder of "C:\Program Files".
+
+Known file sizes on Windows 10/8/7/XP are 31,880 bytes (50% of all occurrences), 33,464 bytes or 22,680 bytes.	 
+
+The program has no visible window. It is digitally signed. It is not a Windows system file. You can uninstall this program in the Control Panel.
+
+Therefore the technical security rating is 9% dangerous.
+
+----------------
+
+Process: rtkaudioservice64.exe
+Count: 1
+
+The genuine RtkAudioService64.exe file is a software component of Realtek High Definition Audio Driver by Realtek.The Realtek HD Audio Driver is an interface between the Windows operating system and the Realtek HD Audio Card. RtkAudioService64.exe runs a core process that belongs to Realtek HD Audio. This is not an essential Windows process and can be disabled if known to create problems.The Realtek HD Audio Driver is a software interface for Realtek HD Audio, an audio chipset that uses audio codecs and standards developed by Intel. Realtek HD Audio is a successor to their AC'97 PC audio standard. It was known as 'Azalia' during the development period. Most Intel motherboards contain sound chips from Realtek.Realtek is a Taiwanese fabless semiconductor company founded in 1987. Realtek employs over 2,000 people, most of which work in research and development. The company manufactures and sells a wide variety of products based on Integrated Circuitry throughout the world. Its products broadly cover communications networks, computer peripherals and multimedia. Realtek is currently headquartered in Hsinchu Science Park, Hsinchu, Taiwan.
+
+RtkAudioService64 stands for Realtek High Definition Audio Service (64-bit)
+
+
 
 ----------------
 
@@ -646,19 +714,113 @@ The taskeng.exe file is a Windows core system file. The program is not visible. 
 
 Therefore the technical security rating is 3% dangerous; however you should also read the user reviews.
 
+This is the task scheduler service under Windows Vista/7/8/10. It is responsible for keeping track of tasks set to run at a time predetermined by the user, and to invoke them when necessary.
+ 
+
 ----------------
 
-Process: taskhost.exe
+Process: acevents.exe
 Count: 2
+
+The genuine acevents.exe file is a software component of ActivClient by ActivIdentity.Acevents.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+
+AcEventS stands for ActivIdentity Event Service
+
+
+
+----------------
+
+Process: lsm.exe
+Count: 1
+Technical Security Rating: 3%
+
+Description: The original lsm.exe from Microsoft is an important part of Windows, but often causes problems. Lsm.exe is located in the C:\Windows\System32 folder.
+
+Known file sizes on Windows 10/8/7/XP are 267,776 bytes (41% of all occurrences), 229,888 bytes and 4 more variants.	 
+
+The file is a Windows core system file. The program is not visible. Lsm.exe is a Microsoft signed file.
+
+Therefore the technical security rating is 3% dangerous, however you should also read the user reviews.
+
+LSM is the Local Session Manager Service in Microsoft Windows. It is found mainly under Windows 7/8/10, where it manages connections related to the terminal server on the hosted machine. It is considered a part of core Windows functionality.
+ 
+
+----------------
+
+Process: explorer.exe
+Count: 1
 Technical Security Rating: 4%
 
-Description: The original taskhost.exe from Microsoft is an important part of Windows, but often causes problems. Taskhost.exe is located in the C:\Windows\System32 folder.
+Description: The original explorer.exe from Microsoft is an important part of Windows, but often causes problems. Explorer.exe is located in the C:\Windows folder.
 
-Known file sizes on Windows 10/8/7/XP are 49,152 bytes (98% of all occurrences), 54,272 bytes, 76,800 bytes or 50,688 bytes.	 
+Known file sizes on Windows 10/8/7/XP are 1,033,728 bytes (14% of all occurrences), 2,871,808 bytes and 352 more variants.	 
 
-Taskhost.exe is a Windows core system file. The program is not visible. Taskhost.exe is a Microsoft signed file.
+Explorer.exe is a Windows core system file. The program has a visible window. Explorer.exe is a Microsoft signed file.
+
+Explorer.exe is able to record keyboard and mouse inputs.
 
 Therefore the technical security rating is 4% dangerous, however you should also read the user reviews.
+
+This is the user shell, which we see as the familiar taskbar, desktop, and other user interface features. This process isn't as vital to the running of Windows as you might expect, and can be stopped (and restarted) from Task Manager, usually with no negative side effects on other applications.
+ 
+
+----------------
+
+Process: ac.sharedstore.exe
+Count: 1
+
+The genuine ac.sharedstore.exe file is a software component of ActivClient by ActivIdentity.Ac.sharedstore.exe is an executable file that belongs to ActivClient, a desktop authentication software that works with smart cards, readers, operating systems, networks and enterprise applications. This is not a critical Windows component and should be removed if known to cause problems. ActivClient software enables the enforcement of company guidelines and policies while accessing networks and workstations. The program features storage for multiple credentials using the public key infrastructure (PKI); one-time password (OTP) and static passwords on a single authentication device; remote access solutions; PIN management; notifications and logging. ActivIdentity is an American company based in Silicon Valley, California that develops digital identity assurance solutions including authentication and smart card services for enterprise, government and commercial establishments. The company was founded in 1987 and acquired by HID Global in 2010. 
+
+ac stands for ActivIdentity Shared Storage Server
+
+
+
+----------------
+
+Process: idle.exe
+Count: 1
+Technical Security Rating: 96%
+
+Most antivirus programs identify idle.exe as malware.
+
+The free file information forum can help you find out how to remove it. If you have additional information about this file, please leave a comment or a suggestion for other users.
+
+Description: Idle.exe is not essential for Windows and will often cause problems. The idle.exe file is located in a subfolder of "C:\Program Files".
+
+The file size on Windows 10/8/7/XP is 331,171 bytes.	 
+
+The program has no file description. The software starts when Windows starts (see Registry key: MACHINE\User Shell Folders).
+
+Idle.exe is not a Windows system file.
+
+Idle.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
+
+Therefore the technical security rating is 96% dangerous.
+
+----------------
+
+Process: armsvc.exe
+Count: 1
+
+The genuine armsvc.exe file is a software component of Adobe Acrobat by Adobe Systems.Armsvc.exe is an executable file that belongs to Adobe Acrobat, a group of software and web services created by Adobe, to create, view, modify and print files in the Portable Document Format (PDF). This process automatically updates Acrobat on a periodic basis. This is not a critical Windows component and should be removed if known to cause problems. Adobe Acrobat comes bundles with Reader (formerly Acrobat Reader), a freeware tool that can view, print and annotate PDF files; Acrobat (formerly Acrobat Exchange), a paid software that can create PDF documents; and Acrobat.com, a file hosting service. Adobe Systems Incorporated is an American software giant that develops software products for web design, video editing, web hosting, image editing, servers, as well as formats such as Flash and PDF. The company was established in 1982 by Charles Geschke and John Warnockin and is currently headquartered in San Jose, California.
+
+ArmSvc stands for Adobe Acrobat Automatic Update Service
+
+
+
+----------------
+
+Process: smscliui.exe
+Count: 1
+Technical Security Rating: 5%
+
+Description: SMSCliUI.exe is not essential for the Windows OS and causes relatively few problems. SMSCliUI.exe is located in a subfolder of C:\Windows\System32.
+
+Known file sizes on Windows 8/7/XP are 219,648 bytes (50% of all occurrences), 369,696 bytes or 367,968 bytes.	 There is an icon for this program on the taskbar next to the clock.
+
+The program has a visible window. It is not a Windows core file. You can uninstall this program in the Control Panel.
+
+Therefore the technical security rating is 5% dangerous.If you have any problems with SMSCliUI.exe, you may want to remove the entire program Configuration Manager Client or SMS Advanced Client using Windows Control Panel.
 
 ----------------
 
@@ -674,61 +836,8 @@ The unsecapp.exe file is a Windows core system file. The program has no visible 
 
 Therefore the technical security rating is 7% dangerous; however you should also read the user reviews.
 
-----------------
-
-Process: rundll32.exe
-Count: 1
-Technical Security Rating: 10%
-
-Description: The original rundll32.exe from Microsoft is an important part of Windows, but often causes problems. Rundll32.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 33,280 bytes (52% of all occurrences), 33,792 bytes and 42 more variants.	 
-
-The file is a Microsoft signed file.
-
-Therefore the technical security rating is 10% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: winlogon.exe
-Count: 1
-Technical Security Rating: 23%
-
-Description: The original winlogon.exe from Microsoft is an important part of Windows, but often causes problems. Winlogon.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 507,904 bytes (20% of all occurrences), 502,272 bytes and 124 more variants.	 
-
-The program is not visible. The file is a trustworthy file from Microsoft.
-
-Winlogon.exe is able to record keyboard and mouse inputs, monitor applications and manipulate other programs.
-
-Therefore the technical security rating is 23% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: wisptis.exe
-Count: 2
-Technical Security Rating: 25%
-
-Description: Wisptis.exe is not essential for Windows and will often cause problems. Wisptis.exe is located in the C:\Windows\System32 folder.
-
-Known file sizes on Windows 10/8/7/XP are 189,952 bytes (47% of all occurrences), 293,376 bytes and 4 more variants.	 
-
-The program is not visible. The wisptis.exe file is not a Windows core file. The application can be removed using the Control Panel's Add\Remove programs applet.
-
-Wisptis.exe is able to record keyboard and mouse inputs.
-
-Therefore the technical security rating is 25% dangerous, however you should also read the user reviews.
-
-----------------
-
-Process: wmiprvse.exe
-Count: 4
-
-The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
-
-WMIPrvSe stands for Windows Management Instrumentation Provider Host Service
-
-The genuine WmiPrvSE.exe file is a software component of Microsoft Windows Management Instrumentation by Microsoft Corporation."WmiPrvSE.exe" is Microsoft's Provider Host Service for Windows Management Instrumentation (WMI). It resides in the "WBEM" subdirectory of "C:\Windows\System32". It is a core Windows system file and cannot be uninstalled. Multiple instances of it can run at a time, each being a "host" implementing a WMI "provider" routine. Web-Based Enterprise Management (WBEM) is a standard by the Distributed Management Task Force (DMTF) which is implemented in Windows as WMI, (a set of extensions to the Windows Driver Model), so that Windows servers and workstations can belong to enterprise networks which use remote infrastructure monitoring and control applications conforming to WBEM and the Common Information Model (CIM). A WMI "provider" routine collects and transmits information to the monitoring application about performance of a process or subsystem. If this name exists outside "C:\Windows\System32\WBEM", it is probably disguised malware. Microsoft is a multinational technology company headquartered in Redmond, WA, USA.
+Unsecapp.exe is part of the Windows Management Instrumentation (WMI) subsystem and is required for programs that need to use WMI programming. This file is a core component of the Windows operating system and should not be disabled or removed.
+If you want a detailed security rating about your unsecapp.exe (and all other running background processes) read the following user opinions, and download the free trial version of Security Task Manager.
+ 
 
 ----------------

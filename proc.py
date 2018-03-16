@@ -74,16 +74,21 @@ for line in in_file:
 
         url2 = "https://www.neuber.com/taskmanager/process/%s.html" % line
         page2 = requests.get(url2)
-        print("%s: %s" % (line, page2.status_code))
+
         if page2.status_code == 200:
             soup = BeautifulSoup(page2.text, "html.parser")
+            content = ""
 
-            content = soup.find(id="content").find_all("br")[3].next_sibling.next_sibling.text
-            if desc:
-                desc += "\n\n"
+            try:
+                content = soup.find(id="content").find_all("br")[3].next_sibling.next_sibling.text
+            except:
+                pass
 
-            desc += content
-            print(desc)
+            if content:
+                if desc:
+                    desc += "\n\n"
+
+                desc += content
 
         if page.status_code != 200 and page2.status_code != 200:
             proc_errs[line] = page.status_code
