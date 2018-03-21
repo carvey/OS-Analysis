@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 
 # or install pip with
 # wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py && python get-pip.py --user
+# comment for example
 
 in_file_path = "dumps/%s" % os.path.basename(sys.argv[1])
 in_file = open(in_file_path, 'r')
